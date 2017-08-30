@@ -1,0 +1,1081 @@
+a:8:{s:6:"config";a:5:{s:10:"phpVersion";s:6:"5.6.20";s:10:"yiiVersion";s:5:"2.0.8";s:11:"application";a:4:{s:3:"yii";s:5:"2.0.8";s:4:"name";s:18:"Bimbingan Akademik";s:3:"env";s:3:"dev";s:5:"debug";b:1;}s:3:"php";a:4:{s:7:"version";s:6:"5.6.20";s:6:"xdebug";b:0;s:3:"apc";b:0;s:8:"memcache";b:0;}s:10:"extensions";a:37:{s:24:"yiisoft/yii2-swiftmailer";a:3:{s:4:"name";s:24:"yiisoft/yii2-swiftmailer";s:7:"version";s:7:"2.0.5.0";s:5:"alias";a:1:{s:16:"@yii/swiftmailer";s:57:"/opt/lampp/htdocs/siakadv/vendor/yiisoft/yii2-swiftmailer";}}s:24:"yiisoft/yii2-codeception";a:3:{s:4:"name";s:24:"yiisoft/yii2-codeception";s:7:"version";s:7:"2.0.5.0";s:5:"alias";a:1:{s:16:"@yii/codeception";s:57:"/opt/lampp/htdocs/siakadv/vendor/yiisoft/yii2-codeception";}}s:22:"yiisoft/yii2-bootstrap";a:3:{s:4:"name";s:22:"yiisoft/yii2-bootstrap";s:7:"version";s:7:"2.0.6.0";s:5:"alias";a:1:{s:14:"@yii/bootstrap";s:55:"/opt/lampp/htdocs/siakadv/vendor/yiisoft/yii2-bootstrap";}}s:18:"yiisoft/yii2-debug";a:3:{s:4:"name";s:18:"yiisoft/yii2-debug";s:7:"version";s:7:"2.0.6.0";s:5:"alias";a:1:{s:10:"@yii/debug";s:51:"/opt/lampp/htdocs/siakadv/vendor/yiisoft/yii2-debug";}}s:16:"yiisoft/yii2-gii";a:3:{s:4:"name";s:16:"yiisoft/yii2-gii";s:7:"version";s:7:"2.0.5.0";s:5:"alias";a:1:{s:8:"@yii/gii";s:49:"/opt/lampp/htdocs/siakadv/vendor/yiisoft/yii2-gii";}}s:18:"yiisoft/yii2-faker";a:3:{s:4:"name";s:18:"yiisoft/yii2-faker";s:7:"version";s:7:"2.0.3.0";s:5:"alias";a:1:{s:10:"@yii/faker";s:51:"/opt/lampp/htdocs/siakadv/vendor/yiisoft/yii2-faker";}}s:18:"cebe/yii2-gravatar";a:3:{s:4:"name";s:18:"cebe/yii2-gravatar";s:7:"version";s:7:"1.1.0.0";s:5:"alias";a:1:{s:14:"@cebe/gravatar";s:65:"/opt/lampp/htdocs/siakadv/vendor/cebe/yii2-gravatar/cebe/gravatar";}}s:25:"dmstr/yii2-adminlte-asset";a:3:{s:4:"name";s:25:"dmstr/yii2-adminlte-asset";s:7:"version";s:7:"2.3.0.0";s:5:"alias";a:1:{s:6:"@dmstr";s:58:"/opt/lampp/htdocs/siakadv/vendor/dmstr/yii2-adminlte-asset";}}s:16:"yiisoft/yii2-jui";a:3:{s:4:"name";s:16:"yiisoft/yii2-jui";s:7:"version";s:7:"2.0.5.0";s:5:"alias";a:1:{s:8:"@yii/jui";s:49:"/opt/lampp/htdocs/siakadv/vendor/yiisoft/yii2-jui";}}s:23:"yiisoft/yii2-authclient";a:3:{s:4:"name";s:23:"yiisoft/yii2-authclient";s:7:"version";s:7:"2.0.5.0";s:5:"alias";a:1:{s:15:"@yii/authclient";s:56:"/opt/lampp/htdocs/siakadv/vendor/yiisoft/yii2-authclient";}}s:18:"dektrium/yii2-user";a:4:{s:4:"name";s:18:"dektrium/yii2-user";s:7:"version";s:7:"0.9.6.0";s:5:"alias";a:1:{s:14:"@dektrium/user";s:51:"/opt/lampp/htdocs/siakadv/vendor/dektrium/yii2-user";}s:9:"bootstrap";s:23:"dektrium\user\Bootstrap";}s:31:"2amigos/yii2-date-picker-widget";a:3:{s:4:"name";s:31:"2amigos/yii2-date-picker-widget";s:7:"version";s:7:"1.0.5.0";s:5:"alias";a:1:{s:21:"@dosamigos/datepicker";s:68:"/opt/lampp/htdocs/siakadv/vendor/2amigos/yii2-date-picker-widget/src";}}s:24:"rmrevin/yii2-fontawesome";a:3:{s:4:"name";s:24:"rmrevin/yii2-fontawesome";s:7:"version";s:8:"2.15.0.0";s:5:"alias";a:1:{s:24:"@rmrevin/yii/fontawesome";s:57:"/opt/lampp/htdocs/siakadv/vendor/rmrevin/yii2-fontawesome";}}s:20:"mdmsoft/yii2-widgets";a:3:{s:4:"name";s:20:"mdmsoft/yii2-widgets";s:7:"version";s:7:"1.1.0.0";s:5:"alias";a:1:{s:12:"@mdm/widgets";s:53:"/opt/lampp/htdocs/siakadv/vendor/mdmsoft/yii2-widgets";}}s:18:"mdmsoft/yii2-admin";a:3:{s:4:"name";s:18:"mdmsoft/yii2-admin";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:10:"@mdm/admin";s:51:"/opt/lampp/htdocs/siakadv/vendor/mdmsoft/yii2-admin";}}s:34:"miloschuman/yii2-highcharts-widget";a:3:{s:4:"name";s:34:"miloschuman/yii2-highcharts-widget";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:23:"@miloschuman/highcharts";s:71:"/opt/lampp/htdocs/siakadv/vendor/miloschuman/yii2-highcharts-widget/src";}}s:25:"kartik-v/yii2-krajee-base";a:3:{s:4:"name";s:25:"kartik-v/yii2-krajee-base";s:7:"version";s:7:"1.8.5.0";s:5:"alias";a:1:{s:12:"@kartik/base";s:58:"/opt/lampp/htdocs/siakadv/vendor/kartik-v/yii2-krajee-base";}}s:30:"kartik-v/yii2-widget-typeahead";a:3:{s:4:"name";s:30:"kartik-v/yii2-widget-typeahead";s:7:"version";s:7:"1.0.1.0";s:5:"alias";a:1:{s:17:"@kartik/typeahead";s:63:"/opt/lampp/htdocs/siakadv/vendor/kartik-v/yii2-widget-typeahead";}}s:30:"kartik-v/yii2-widget-touchspin";a:3:{s:4:"name";s:30:"kartik-v/yii2-widget-touchspin";s:7:"version";s:7:"1.2.1.0";s:5:"alias";a:1:{s:17:"@kartik/touchspin";s:63:"/opt/lampp/htdocs/siakadv/vendor/kartik-v/yii2-widget-touchspin";}}s:31:"kartik-v/yii2-widget-timepicker";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-timepicker";s:7:"version";s:7:"1.0.1.0";s:5:"alias";a:1:{s:12:"@kartik/time";s:64:"/opt/lampp/htdocs/siakadv/vendor/kartik-v/yii2-widget-timepicker";}}s:32:"kartik-v/yii2-widget-switchinput";a:3:{s:4:"name";s:32:"kartik-v/yii2-widget-switchinput";s:7:"version";s:7:"1.3.1.0";s:5:"alias";a:1:{s:19:"@kartik/switchinput";s:65:"/opt/lampp/htdocs/siakadv/vendor/kartik-v/yii2-widget-switchinput";}}s:28:"kartik-v/yii2-widget-spinner";a:3:{s:4:"name";s:28:"kartik-v/yii2-widget-spinner";s:7:"version";s:7:"1.0.0.0";s:5:"alias";a:1:{s:15:"@kartik/spinner";s:61:"/opt/lampp/htdocs/siakadv/vendor/kartik-v/yii2-widget-spinner";}}s:28:"kartik-v/yii2-widget-sidenav";a:3:{s:4:"name";s:28:"kartik-v/yii2-widget-sidenav";s:7:"version";s:7:"1.0.0.0";s:5:"alias";a:1:{s:15:"@kartik/sidenav";s:61:"/opt/lampp/htdocs/siakadv/vendor/kartik-v/yii2-widget-sidenav";}}s:28:"kartik-v/yii2-widget-select2";a:3:{s:4:"name";s:28:"kartik-v/yii2-widget-select2";s:7:"version";s:7:"2.0.8.0";s:5:"alias";a:1:{s:15:"@kartik/select2";s:61:"/opt/lampp/htdocs/siakadv/vendor/kartik-v/yii2-widget-select2";}}s:27:"kartik-v/yii2-widget-rating";a:3:{s:4:"name";s:27:"kartik-v/yii2-widget-rating";s:7:"version";s:7:"1.0.2.0";s:5:"alias";a:1:{s:14:"@kartik/rating";s:60:"/opt/lampp/htdocs/siakadv/vendor/kartik-v/yii2-widget-rating";}}s:31:"kartik-v/yii2-widget-rangeinput";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-rangeinput";s:7:"version";s:7:"1.0.1.0";s:5:"alias";a:1:{s:13:"@kartik/range";s:64:"/opt/lampp/htdocs/siakadv/vendor/kartik-v/yii2-widget-rangeinput";}}s:26:"kartik-v/yii2-widget-growl";a:3:{s:4:"name";s:26:"kartik-v/yii2-widget-growl";s:7:"version";s:7:"1.1.1.0";s:5:"alias";a:1:{s:13:"@kartik/growl";s:59:"/opt/lampp/htdocs/siakadv/vendor/kartik-v/yii2-widget-growl";}}s:30:"kartik-v/yii2-widget-fileinput";a:3:{s:4:"name";s:30:"kartik-v/yii2-widget-fileinput";s:7:"version";s:7:"1.0.5.0";s:5:"alias";a:1:{s:12:"@kartik/file";s:63:"/opt/lampp/htdocs/siakadv/vendor/kartik-v/yii2-widget-fileinput";}}s:28:"kartik-v/yii2-widget-depdrop";a:3:{s:4:"name";s:28:"kartik-v/yii2-widget-depdrop";s:7:"version";s:7:"1.0.4.0";s:5:"alias";a:1:{s:15:"@kartik/depdrop";s:61:"/opt/lampp/htdocs/siakadv/vendor/kartik-v/yii2-widget-depdrop";}}s:35:"kartik-v/yii2-widget-datetimepicker";a:3:{s:4:"name";s:35:"kartik-v/yii2-widget-datetimepicker";s:7:"version";s:7:"1.4.2.0";s:5:"alias";a:1:{s:16:"@kartik/datetime";s:68:"/opt/lampp/htdocs/siakadv/vendor/kartik-v/yii2-widget-datetimepicker";}}s:31:"kartik-v/yii2-widget-datepicker";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-datepicker";s:7:"version";s:7:"1.4.1.0";s:5:"alias";a:1:{s:12:"@kartik/date";s:64:"/opt/lampp/htdocs/siakadv/vendor/kartik-v/yii2-widget-datepicker";}}s:31:"kartik-v/yii2-widget-colorinput";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-colorinput";s:7:"version";s:7:"1.0.3.0";s:5:"alias";a:1:{s:13:"@kartik/color";s:64:"/opt/lampp/htdocs/siakadv/vendor/kartik-v/yii2-widget-colorinput";}}s:26:"kartik-v/yii2-widget-alert";a:3:{s:4:"name";s:26:"kartik-v/yii2-widget-alert";s:7:"version";s:7:"1.1.0.0";s:5:"alias";a:1:{s:13:"@kartik/alert";s:59:"/opt/lampp/htdocs/siakadv/vendor/kartik-v/yii2-widget-alert";}}s:26:"kartik-v/yii2-widget-affix";a:3:{s:4:"name";s:26:"kartik-v/yii2-widget-affix";s:7:"version";s:7:"1.0.0.0";s:5:"alias";a:1:{s:13:"@kartik/affix";s:59:"/opt/lampp/htdocs/siakadv/vendor/kartik-v/yii2-widget-affix";}}s:31:"kartik-v/yii2-widget-activeform";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-activeform";s:7:"version";s:7:"1.4.8.0";s:5:"alias";a:1:{s:12:"@kartik/form";s:64:"/opt/lampp/htdocs/siakadv/vendor/kartik-v/yii2-widget-activeform";}}s:21:"kartik-v/yii2-widgets";a:3:{s:4:"name";s:21:"kartik-v/yii2-widgets";s:7:"version";s:7:"3.4.0.0";s:5:"alias";a:1:{s:15:"@kartik/widgets";s:54:"/opt/lampp/htdocs/siakadv/vendor/kartik-v/yii2-widgets";}}s:20:"hscstudio/yii2-mimin";a:3:{s:4:"name";s:20:"hscstudio/yii2-mimin";s:7:"version";s:7:"1.1.4.0";s:5:"alias";a:1:{s:16:"@hscstudio/mimin";s:53:"/opt/lampp/htdocs/siakadv/vendor/hscstudio/yii2-mimin";}}}}s:7:"request";a:14:{s:7:"flashes";a:0:{}s:10:"statusCode";i:200;s:14:"requestHeaders";a:8:{s:4:"host";s:9:"localhost";s:10:"user-agent";s:74:"Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:54.0) Gecko/20100101 Firefox/54.0";s:6:"accept";s:63:"text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8";s:15:"accept-language";s:14:"en-US,en;q=0.5";s:15:"accept-encoding";s:13:"gzip, deflate";s:6:"cookie";s:207:"_identity=c02d1008322e08e706cf99d2d441c8dfdf0ee78331a21b78a2cac80c49d15718a%3A2%3A%7Bi%3A0%3Bs%3A9%3A%22_identity%22%3Bi%3A1%3Bs%3A47%3A%22%5B36%2C%22_Devul3krso4UJcnq46AqXrT-qdY-OLV%22%2C2592000%5D%22%3B%7D";s:10:"connection";s:10:"keep-alive";s:25:"upgrade-insecure-requests";s:1:"1";}s:15:"responseHeaders";a:6:{s:12:"X-Powered-By";s:10:"PHP/5.6.20";s:10:"Set-Cookie";a:3:{i:0;s:54:"PHPSESSID=2s680ipgfd75v886abmpf87372; path=/; HttpOnly";i:1;s:281:"_identity=c02d1008322e08e706cf99d2d441c8dfdf0ee78331a21b78a2cac80c49d15718a%3A2%3A%7Bi%3A0%3Bs%3A9%3A%22_identity%22%3Bi%3A1%3Bs%3A47%3A%22%5B36%2C%22_Devul3krso4UJcnq46AqXrT-qdY-OLV%22%2C2592000%5D%22%3B%7D; expires=Sun, 24-Sep-2017 17:05:03 GMT; Max-Age=2591999; path=/; httponly";i:2;s:190:"_csrf=c92e167d945c50676010d47882f089fdf511bd14961bec1fe3a3b7c3c4d11e79a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%229bpa55_GGr7YJbNfCu-FeZylcEOPUcKV%22%3B%7D; path=/; httponly";}s:7:"Expires";s:29:"Thu, 19 Nov 1981 08:52:00 GMT";s:13:"Cache-Control";s:62:"no-store, no-cache, must-revalidate, post-check=0, pre-check=0";s:6:"Pragma";s:8:"no-cache";s:12:"Content-Type";s:24:"text/html; charset=UTF-8";}s:5:"route";s:10:"site/index";s:6:"action";s:50:"frontend\controllers\SiteController::actionIndex()";s:12:"actionParams";a:0:{}s:11:"requestBody";a:0:{}s:6:"SERVER";a:36:{s:18:"REDIRECT_UNIQUE_ID";s:24:"WaBYvH8AAQEAAAnqqOcAAAAA";s:15:"REDIRECT_STATUS";s:3:"200";s:9:"UNIQUE_ID";s:24:"WaBYvH8AAQEAAAnqqOcAAAAA";s:9:"HTTP_HOST";s:9:"localhost";s:15:"HTTP_USER_AGENT";s:74:"Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:54.0) Gecko/20100101 Firefox/54.0";s:11:"HTTP_ACCEPT";s:63:"text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8";s:20:"HTTP_ACCEPT_LANGUAGE";s:14:"en-US,en;q=0.5";s:20:"HTTP_ACCEPT_ENCODING";s:13:"gzip, deflate";s:11:"HTTP_COOKIE";s:207:"_identity=c02d1008322e08e706cf99d2d441c8dfdf0ee78331a21b78a2cac80c49d15718a%3A2%3A%7Bi%3A0%3Bs%3A9%3A%22_identity%22%3Bi%3A1%3Bs%3A47%3A%22%5B36%2C%22_Devul3krso4UJcnq46AqXrT-qdY-OLV%22%2C2592000%5D%22%3B%7D";s:15:"HTTP_CONNECTION";s:10:"keep-alive";s:30:"HTTP_UPGRADE_INSECURE_REQUESTS";s:1:"1";s:4:"PATH";s:70:"/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin";s:15:"LD_LIBRARY_PATH";s:29:"/opt/lampp/lib:/opt/lampp/lib";s:16:"SERVER_SIGNATURE";s:0:"";s:15:"SERVER_SOFTWARE";s:78:"Apache/2.4.18 (Unix) OpenSSL/1.0.2g PHP/5.6.20 mod_perl/2.0.8-dev Perl/v5.16.3";s:11:"SERVER_NAME";s:9:"localhost";s:11:"SERVER_ADDR";s:9:"127.0.0.1";s:11:"SERVER_PORT";s:2:"80";s:11:"REMOTE_ADDR";s:9:"127.0.0.1";s:13:"DOCUMENT_ROOT";s:17:"/opt/lampp/htdocs";s:14:"REQUEST_SCHEME";s:4:"http";s:14:"CONTEXT_PREFIX";s:0:"";s:21:"CONTEXT_DOCUMENT_ROOT";s:17:"/opt/lampp/htdocs";s:12:"SERVER_ADMIN";s:15:"you@example.com";s:15:"SCRIPT_FILENAME";s:48:"/opt/lampp/htdocs/siakadv/frontend/web/index.php";s:11:"REMOTE_PORT";s:5:"34715";s:12:"REDIRECT_URL";s:9:"/siakadv/";s:17:"GATEWAY_INTERFACE";s:7:"CGI/1.1";s:15:"SERVER_PROTOCOL";s:8:"HTTP/1.1";s:14:"REQUEST_METHOD";s:3:"GET";s:12:"QUERY_STRING";s:0:"";s:11:"REQUEST_URI";s:9:"/siakadv/";s:11:"SCRIPT_NAME";s:31:"/siakadv/frontend/web/index.php";s:8:"PHP_SELF";s:31:"/siakadv/frontend/web/index.php";s:18:"REQUEST_TIME_FLOAT";d:1503680700.790999889373779296875;s:12:"REQUEST_TIME";i:1503680700;}s:3:"GET";a:0:{}s:4:"POST";a:0:{}s:6:"COOKIE";a:1:{s:9:"_identity";s:149:"c02d1008322e08e706cf99d2d441c8dfdf0ee78331a21b78a2cac80c49d15718a:2:{i:0;s:9:"_identity";i:1;s:47:"[36,"_Devul3krso4UJcnq46AqXrT-qdY-OLV",2592000]";}";}s:5:"FILES";a:0:{}s:7:"SESSION";a:2:{s:7:"__flash";a:0:{}s:4:"__id";i:36;}}s:3:"log";a:1:{s:8:"messages";a:37:{i:0;a:5:{i:0;s:51:"Bootstrap with dektrium\user\Bootstrap::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1503680701.9107639789581298828125;i:4;a:0:{}}i:1;a:5:{i:0;s:33:"Bootstrap with yii\log\Dispatcher";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1503680701.933701038360595703125;i:4;a:0:{}}i:2;a:5:{i:0;s:21:"Loading module: debug";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1503680701.9338359832763671875;i:4;a:0:{}}i:3;a:5:{i:0;s:44:"Bootstrap with yii\debug\Module::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1503680702.0029621124267578125;i:4;a:0:{}}i:4;a:5:{i:0;s:19:"Loading module: gii";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1503680702.027925014495849609375;i:4;a:0:{}}i:5;a:5:{i:0;s:42:"Bootstrap with yii\gii\Module::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1503680702.0393679141998291015625;i:4;a:0:{}}i:6;a:5:{i:0;s:55:"No matching URL rules. Using default URL parsing logic.";i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1503680702.0451500415802001953125;i:4;a:0:{}}i:7;a:5:{i:0;s:19:"Route requested: ''";i:1;i:8;i:2;s:34:"yii\web\Application::handleRequest";i:3;d:1503680702.0452210903167724609375;i:4;a:0:{}}i:8;a:5:{i:0;s:24:"Route to run: site/index";i:1;i:8;i:2;s:30:"yii\base\Controller::runAction";i:3;d:1503680702.0908820629119873046875;i:4;a:0:{}}i:9;a:5:{i:0;s:64:"Opening DB connection: pgsql:host=localhost;dbname=dbsiaknf2017a";i:1;i:4;i:2;s:23:"yii\db\Connection::open";i:3;d:1503680702.2354810237884521484375;i:4;a:2:{i:0;a:5:{s:4:"file";s:67:"/opt/lampp/htdocs/siakadv/vendor/dektrium/yii2-user/models/User.php";s:4:"line";i:473;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:80:"/opt/lampp/htdocs/siakadv/vendor/mdmsoft/yii2-admin/components/AccessControl.php";s:4:"line";i:103;s:8:"function";s:10:"getIsGuest";s:5:"class";s:12:"yii\web\User";s:4:"type";s:2:"->";}}}i:12;a:5:{i:0;s:1950:"SELECT
+    d.nspname AS table_schema,
+    c.relname AS table_name,
+    a.attname AS column_name,
+    t.typname AS data_type,
+    a.attlen AS character_maximum_length,
+    pg_catalog.col_description(c.oid, a.attnum) AS column_comment,
+    a.atttypmod AS modifier,
+    a.attnotnull = false AS is_nullable,
+    CAST(pg_get_expr(ad.adbin, ad.adrelid) AS varchar) AS column_default,
+    coalesce(pg_get_expr(ad.adbin, ad.adrelid) ~ 'nextval',false) AS is_autoinc,
+    array_to_string((select array_agg(enumlabel) from pg_enum where enumtypid=a.atttypid)::varchar[],',') as enum_values,
+    CASE atttypid
+         WHEN 21 /*int2*/ THEN 16
+         WHEN 23 /*int4*/ THEN 32
+         WHEN 20 /*int8*/ THEN 64
+         WHEN 1700 /*numeric*/ THEN
+              CASE WHEN atttypmod = -1
+               THEN null
+               ELSE ((atttypmod - 4) >> 16) & 65535
+               END
+         WHEN 700 /*float4*/ THEN 24 /*FLT_MANT_DIG*/
+         WHEN 701 /*float8*/ THEN 53 /*DBL_MANT_DIG*/
+         ELSE null
+      END   AS numeric_precision,
+      CASE
+        WHEN atttypid IN (21, 23, 20) THEN 0
+        WHEN atttypid IN (1700) THEN
+        CASE
+            WHEN atttypmod = -1 THEN null
+            ELSE (atttypmod - 4) & 65535
+        END
+           ELSE null
+      END AS numeric_scale,
+    CAST(
+             information_schema._pg_char_max_length(information_schema._pg_truetypid(a, t), information_schema._pg_truetypmod(a, t))
+             AS numeric
+    ) AS size,
+    a.attnum = any (ct.conkey) as is_pkey
+FROM
+    pg_class c
+    LEFT JOIN pg_attribute a ON a.attrelid = c.oid
+    LEFT JOIN pg_attrdef ad ON a.attrelid = ad.adrelid AND a.attnum = ad.adnum
+    LEFT JOIN pg_type t ON a.atttypid = t.oid
+    LEFT JOIN pg_namespace d ON d.oid = c.relnamespace
+    LEFT join pg_constraint ct on ct.conrelid=c.oid and ct.contype='p'
+WHERE
+    a.attnum > 0 and t.typname != ''
+    and c.relname = 'user'
+    and d.nspname = 'public'
+ORDER BY
+    a.attnum;";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1503680702.54870510101318359375;i:4;a:2:{i:0;a:5:{s:4:"file";s:67:"/opt/lampp/htdocs/siakadv/vendor/dektrium/yii2-user/models/User.php";s:4:"line";i:473;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:80:"/opt/lampp/htdocs/siakadv/vendor/mdmsoft/yii2-admin/components/AccessControl.php";s:4:"line";i:103;s:8:"function";s:10:"getIsGuest";s:5:"class";s:12:"yii\web\User";s:4:"type";s:2:"->";}}}i:15;a:5:{i:0;s:872:"select
+    ct.conname as constraint_name,
+    a.attname as column_name,
+    fc.relname as foreign_table_name,
+    fns.nspname as foreign_table_schema,
+    fa.attname as foreign_column_name
+from
+    (SELECT ct.conname, ct.conrelid, ct.confrelid, ct.conkey, ct.contype, ct.confkey, generate_subscripts(ct.conkey, 1) AS s
+       FROM pg_constraint ct
+    ) AS ct
+    inner join pg_class c on c.oid=ct.conrelid
+    inner join pg_namespace ns on c.relnamespace=ns.oid
+    inner join pg_attribute a on a.attrelid=ct.conrelid and a.attnum = ct.conkey[ct.s]
+    left join pg_class fc on fc.oid=ct.confrelid
+    left join pg_namespace fns on fc.relnamespace=fns.oid
+    left join pg_attribute fa on fa.attrelid=ct.confrelid and fa.attnum = ct.confkey[ct.s]
+where
+    ct.contype='f'
+    and c.relname='user'
+    and ns.nspname='public'
+order by
+    fns.nspname, fc.relname, a.attnum";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1503680703.2272899150848388671875;i:4;a:2:{i:0;a:5:{s:4:"file";s:67:"/opt/lampp/htdocs/siakadv/vendor/dektrium/yii2-user/models/User.php";s:4:"line";i:473;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:80:"/opt/lampp/htdocs/siakadv/vendor/mdmsoft/yii2-admin/components/AccessControl.php";s:4:"line";i:103;s:8:"function";s:10:"getIsGuest";s:5:"class";s:12:"yii\web\User";s:4:"type";s:2:"->";}}}i:18;a:5:{i:0;s:34:"SELECT * FROM "user" WHERE "id"=36";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1503680703.3024098873138427734375;i:4;a:2:{i:0;a:5:{s:4:"file";s:67:"/opt/lampp/htdocs/siakadv/vendor/dektrium/yii2-user/models/User.php";s:4:"line";i:473;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:80:"/opt/lampp/htdocs/siakadv/vendor/mdmsoft/yii2-admin/components/AccessControl.php";s:4:"line";i:103;s:8:"function";s:10:"getIsGuest";s:5:"class";s:12:"yii\web\User";s:4:"type";s:2:"->";}}}i:21;a:5:{i:0;s:15:"Session started";i:1;i:4;i:2;s:21:"yii\web\Session::open";i:3;d:1503680703.4140760898590087890625;i:4;a:1:{i:0;a:5:{s:4:"file";s:80:"/opt/lampp/htdocs/siakadv/vendor/mdmsoft/yii2-admin/components/AccessControl.php";s:4:"line";i:103;s:8:"function";s:10:"getIsGuest";s:5:"class";s:12:"yii\web\User";s:4:"type";s:2:"->";}}}i:22;a:5:{i:0;s:46:"User '36' logged in from 127.0.0.1 via cookie.";i:1;i:4;i:2;s:27:"yii\web\User::loginByCookie";i:3;d:1503680703.414513111114501953125;i:4;a:1:{i:0;a:5:{s:4:"file";s:80:"/opt/lampp/htdocs/siakadv/vendor/mdmsoft/yii2-admin/components/AccessControl.php";s:4:"line";i:103;s:8:"function";s:10:"getIsGuest";s:5:"class";s:12:"yii\web\User";s:4:"type";s:2:"->";}}}i:23;a:5:{i:0;s:66:"Running action: frontend\controllers\SiteController::actionIndex()";i:1;i:8;i:2;s:36:"yii\base\InlineAction::runWithParams";i:3;d:1503680703.5812780857086181640625;i:4;a:0:{}}i:24;a:5:{i:0;s:1959:"SELECT
+    d.nspname AS table_schema,
+    c.relname AS table_name,
+    a.attname AS column_name,
+    t.typname AS data_type,
+    a.attlen AS character_maximum_length,
+    pg_catalog.col_description(c.oid, a.attnum) AS column_comment,
+    a.atttypmod AS modifier,
+    a.attnotnull = false AS is_nullable,
+    CAST(pg_get_expr(ad.adbin, ad.adrelid) AS varchar) AS column_default,
+    coalesce(pg_get_expr(ad.adbin, ad.adrelid) ~ 'nextval',false) AS is_autoinc,
+    array_to_string((select array_agg(enumlabel) from pg_enum where enumtypid=a.atttypid)::varchar[],',') as enum_values,
+    CASE atttypid
+         WHEN 21 /*int2*/ THEN 16
+         WHEN 23 /*int4*/ THEN 32
+         WHEN 20 /*int8*/ THEN 64
+         WHEN 1700 /*numeric*/ THEN
+              CASE WHEN atttypmod = -1
+               THEN null
+               ELSE ((atttypmod - 4) >> 16) & 65535
+               END
+         WHEN 700 /*float4*/ THEN 24 /*FLT_MANT_DIG*/
+         WHEN 701 /*float8*/ THEN 53 /*DBL_MANT_DIG*/
+         ELSE null
+      END   AS numeric_precision,
+      CASE
+        WHEN atttypid IN (21, 23, 20) THEN 0
+        WHEN atttypid IN (1700) THEN
+        CASE
+            WHEN atttypmod = -1 THEN null
+            ELSE (atttypmod - 4) & 65535
+        END
+           ELSE null
+      END AS numeric_scale,
+    CAST(
+             information_schema._pg_char_max_length(information_schema._pg_truetypid(a, t), information_schema._pg_truetypmod(a, t))
+             AS numeric
+    ) AS size,
+    a.attnum = any (ct.conkey) as is_pkey
+FROM
+    pg_class c
+    LEFT JOIN pg_attribute a ON a.attrelid = c.oid
+    LEFT JOIN pg_attrdef ad ON a.attrelid = ad.adrelid AND a.attnum = ad.adnum
+    LEFT JOIN pg_type t ON a.atttypid = t.oid
+    LEFT JOIN pg_namespace d ON d.oid = c.relnamespace
+    LEFT join pg_constraint ct on ct.conrelid=c.oid and ct.contype='p'
+WHERE
+    a.attnum > 0 and t.typname != ''
+    and c.relname = 'article_items'
+    and d.nspname = 'public'
+ORDER BY
+    a.attnum;";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1503680703.6349990367889404296875;i:4;a:1:{i:0;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:93;s:8:"function";s:11:"__construct";s:5:"class";s:15:"yii\base\Object";s:4:"type";s:2:"->";}}}i:27;a:5:{i:0;s:881:"select
+    ct.conname as constraint_name,
+    a.attname as column_name,
+    fc.relname as foreign_table_name,
+    fns.nspname as foreign_table_schema,
+    fa.attname as foreign_column_name
+from
+    (SELECT ct.conname, ct.conrelid, ct.confrelid, ct.conkey, ct.contype, ct.confkey, generate_subscripts(ct.conkey, 1) AS s
+       FROM pg_constraint ct
+    ) AS ct
+    inner join pg_class c on c.oid=ct.conrelid
+    inner join pg_namespace ns on c.relnamespace=ns.oid
+    inner join pg_attribute a on a.attrelid=ct.conrelid and a.attnum = ct.conkey[ct.s]
+    left join pg_class fc on fc.oid=ct.confrelid
+    left join pg_namespace fns on fc.relnamespace=fns.oid
+    left join pg_attribute fa on fa.attrelid=ct.confrelid and fa.attnum = ct.confkey[ct.s]
+where
+    ct.contype='f'
+    and c.relname='article_items'
+    and ns.nspname='public'
+order by
+    fns.nspname, fc.relname, a.attnum";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1503680703.7160549163818359375;i:4;a:1:{i:0;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:93;s:8:"function";s:11:"__construct";s:5:"class";s:15:"yii\base\Object";s:4:"type";s:2:"->";}}}i:30;a:5:{i:0;s:76:"Rendering view file: /opt/lampp/htdocs/siakadv/frontend/views/site/index.php";i:1;i:8;i:2;s:25:"yii\base\View::renderFile";i:3;d:1503680703.846046924591064453125;i:4;a:1:{i:0;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:97;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:31;a:5:{i:0;s:55:"SELECT COUNT(*) FROM "article_items" WHERE catid != '0'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1503680703.952889919281005859375;i:4;a:2:{i:0;a:5:{s:4:"file";s:55:"/opt/lampp/htdocs/siakadv/frontend/views/site/index.php";s:4:"line";i:35;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:97;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:34;a:5:{i:0;s:76:"SELECT * FROM "article_items" WHERE catid != '0' ORDER BY "id" DESC LIMIT 20";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1503680704.0543670654296875;i:4;a:2:{i:0;a:5:{s:4:"file";s:55:"/opt/lampp/htdocs/siakadv/frontend/views/site/index.php";s:4:"line";i:35;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:97;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:37;a:5:{i:0;s:83:"Rendering view file: /opt/lampp/htdocs/siakadv/frontend/views/site/_itemArtikel.php";i:1;i:8;i:2;s:25:"yii\base\View::renderFile";i:3;d:1503680704.0918309688568115234375;i:4;a:2:{i:0;a:5:{s:4:"file";s:55:"/opt/lampp/htdocs/siakadv/frontend/views/site/index.php";s:4:"line";i:35;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:97;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:38;a:5:{i:0;s:33:"SELECT * FROM "user" WHERE "id"=1";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1503680704.1707470417022705078125;i:4;a:3:{i:0;a:5:{s:4:"file";s:62:"/opt/lampp/htdocs/siakadv/frontend/views/site/_itemArtikel.php";s:4:"line";i:15;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:55:"/opt/lampp/htdocs/siakadv/frontend/views/site/index.php";s:4:"line";i:35;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:97;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:41;a:5:{i:0;s:47:"SELECT * FROM "article_categories" WHERE "id"=2";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1503680704.18340206146240234375;i:4;a:3:{i:0;a:5:{s:4:"file";s:62:"/opt/lampp/htdocs/siakadv/frontend/views/site/_itemArtikel.php";s:4:"line";i:18;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:55:"/opt/lampp/htdocs/siakadv/frontend/views/site/index.php";s:4:"line";i:35;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:97;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:44;a:5:{i:0;s:1964:"SELECT
+    d.nspname AS table_schema,
+    c.relname AS table_name,
+    a.attname AS column_name,
+    t.typname AS data_type,
+    a.attlen AS character_maximum_length,
+    pg_catalog.col_description(c.oid, a.attnum) AS column_comment,
+    a.atttypmod AS modifier,
+    a.attnotnull = false AS is_nullable,
+    CAST(pg_get_expr(ad.adbin, ad.adrelid) AS varchar) AS column_default,
+    coalesce(pg_get_expr(ad.adbin, ad.adrelid) ~ 'nextval',false) AS is_autoinc,
+    array_to_string((select array_agg(enumlabel) from pg_enum where enumtypid=a.atttypid)::varchar[],',') as enum_values,
+    CASE atttypid
+         WHEN 21 /*int2*/ THEN 16
+         WHEN 23 /*int4*/ THEN 32
+         WHEN 20 /*int8*/ THEN 64
+         WHEN 1700 /*numeric*/ THEN
+              CASE WHEN atttypmod = -1
+               THEN null
+               ELSE ((atttypmod - 4) >> 16) & 65535
+               END
+         WHEN 700 /*float4*/ THEN 24 /*FLT_MANT_DIG*/
+         WHEN 701 /*float8*/ THEN 53 /*DBL_MANT_DIG*/
+         ELSE null
+      END   AS numeric_precision,
+      CASE
+        WHEN atttypid IN (21, 23, 20) THEN 0
+        WHEN atttypid IN (1700) THEN
+        CASE
+            WHEN atttypmod = -1 THEN null
+            ELSE (atttypmod - 4) & 65535
+        END
+           ELSE null
+      END AS numeric_scale,
+    CAST(
+             information_schema._pg_char_max_length(information_schema._pg_truetypid(a, t), information_schema._pg_truetypmod(a, t))
+             AS numeric
+    ) AS size,
+    a.attnum = any (ct.conkey) as is_pkey
+FROM
+    pg_class c
+    LEFT JOIN pg_attribute a ON a.attrelid = c.oid
+    LEFT JOIN pg_attrdef ad ON a.attrelid = ad.adrelid AND a.attnum = ad.adnum
+    LEFT JOIN pg_type t ON a.atttypid = t.oid
+    LEFT JOIN pg_namespace d ON d.oid = c.relnamespace
+    LEFT join pg_constraint ct on ct.conrelid=c.oid and ct.contype='p'
+WHERE
+    a.attnum > 0 and t.typname != ''
+    and c.relname = 'article_categories'
+    and d.nspname = 'public'
+ORDER BY
+    a.attnum;";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1503680704.26471710205078125;i:4;a:3:{i:0;a:5:{s:4:"file";s:62:"/opt/lampp/htdocs/siakadv/frontend/views/site/_itemArtikel.php";s:4:"line";i:18;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:55:"/opt/lampp/htdocs/siakadv/frontend/views/site/index.php";s:4:"line";i:35;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:97;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:47;a:5:{i:0;s:886:"select
+    ct.conname as constraint_name,
+    a.attname as column_name,
+    fc.relname as foreign_table_name,
+    fns.nspname as foreign_table_schema,
+    fa.attname as foreign_column_name
+from
+    (SELECT ct.conname, ct.conrelid, ct.confrelid, ct.conkey, ct.contype, ct.confkey, generate_subscripts(ct.conkey, 1) AS s
+       FROM pg_constraint ct
+    ) AS ct
+    inner join pg_class c on c.oid=ct.conrelid
+    inner join pg_namespace ns on c.relnamespace=ns.oid
+    inner join pg_attribute a on a.attrelid=ct.conrelid and a.attnum = ct.conkey[ct.s]
+    left join pg_class fc on fc.oid=ct.confrelid
+    left join pg_namespace fns on fc.relnamespace=fns.oid
+    left join pg_attribute fa on fa.attrelid=ct.confrelid and fa.attnum = ct.confkey[ct.s]
+where
+    ct.contype='f'
+    and c.relname='article_categories'
+    and ns.nspname='public'
+order by
+    fns.nspname, fc.relname, a.attnum";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1503680704.29973602294921875;i:4;a:3:{i:0;a:5:{s:4:"file";s:62:"/opt/lampp/htdocs/siakadv/frontend/views/site/_itemArtikel.php";s:4:"line";i:18;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:55:"/opt/lampp/htdocs/siakadv/frontend/views/site/index.php";s:4:"line";i:35;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:97;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:50;a:5:{i:0;s:83:"Rendering view file: /opt/lampp/htdocs/siakadv/frontend/views/site/_itemArtikel.php";i:1;i:8;i:2;s:25:"yii\base\View::renderFile";i:3;d:1503680704.32124996185302734375;i:4;a:2:{i:0;a:5:{s:4:"file";s:55:"/opt/lampp/htdocs/siakadv/frontend/views/site/index.php";s:4:"line";i:35;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:97;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:51;a:5:{i:0;s:33:"SELECT * FROM "user" WHERE "id"=1";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1503680704.32279205322265625;i:4;a:3:{i:0;a:5:{s:4:"file";s:62:"/opt/lampp/htdocs/siakadv/frontend/views/site/_itemArtikel.php";s:4:"line";i:15;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:55:"/opt/lampp/htdocs/siakadv/frontend/views/site/index.php";s:4:"line";i:35;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:97;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:54;a:5:{i:0;s:47:"SELECT * FROM "article_categories" WHERE "id"=1";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1503680704.3278200626373291015625;i:4;a:3:{i:0;a:5:{s:4:"file";s:62:"/opt/lampp/htdocs/siakadv/frontend/views/site/_itemArtikel.php";s:4:"line";i:18;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:55:"/opt/lampp/htdocs/siakadv/frontend/views/site/index.php";s:4:"line";i:35;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:97;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:57;a:5:{i:0;s:83:"Rendering view file: /opt/lampp/htdocs/siakadv/frontend/views/site/_itemArtikel.php";i:1;i:8;i:2;s:25:"yii\base\View::renderFile";i:3;d:1503680704.33273410797119140625;i:4;a:2:{i:0;a:5:{s:4:"file";s:55:"/opt/lampp/htdocs/siakadv/frontend/views/site/index.php";s:4:"line";i:35;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:97;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:58;a:5:{i:0;s:33:"SELECT * FROM "user" WHERE "id"=1";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1503680704.334168910980224609375;i:4;a:3:{i:0;a:5:{s:4:"file";s:62:"/opt/lampp/htdocs/siakadv/frontend/views/site/_itemArtikel.php";s:4:"line";i:15;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:55:"/opt/lampp/htdocs/siakadv/frontend/views/site/index.php";s:4:"line";i:35;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:97;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:61;a:5:{i:0;s:47:"SELECT * FROM "article_categories" WHERE "id"=1";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1503680704.3390409946441650390625;i:4;a:3:{i:0;a:5:{s:4:"file";s:62:"/opt/lampp/htdocs/siakadv/frontend/views/site/_itemArtikel.php";s:4:"line";i:18;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:55:"/opt/lampp/htdocs/siakadv/frontend/views/site/index.php";s:4:"line";i:35;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:97;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:64;a:5:{i:0;s:83:"Rendering view file: /opt/lampp/htdocs/siakadv/frontend/views/site/_itemArtikel.php";i:1;i:8;i:2;s:25:"yii\base\View::renderFile";i:3;d:1503680704.343616962432861328125;i:4;a:2:{i:0;a:5:{s:4:"file";s:55:"/opt/lampp/htdocs/siakadv/frontend/views/site/index.php";s:4:"line";i:35;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:97;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:65;a:5:{i:0;s:33:"SELECT * FROM "user" WHERE "id"=1";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1503680704.3451368808746337890625;i:4;a:3:{i:0;a:5:{s:4:"file";s:62:"/opt/lampp/htdocs/siakadv/frontend/views/site/_itemArtikel.php";s:4:"line";i:15;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:55:"/opt/lampp/htdocs/siakadv/frontend/views/site/index.php";s:4:"line";i:35;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:97;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:68;a:5:{i:0;s:47:"SELECT * FROM "article_categories" WHERE "id"=1";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1503680704.3501069545745849609375;i:4;a:3:{i:0;a:5:{s:4:"file";s:62:"/opt/lampp/htdocs/siakadv/frontend/views/site/_itemArtikel.php";s:4:"line";i:18;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:55:"/opt/lampp/htdocs/siakadv/frontend/views/site/index.php";s:4:"line";i:35;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:97;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:71;a:5:{i:0;s:50:"SELECT * FROM "article_categories" ORDER BY "name"";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1503680704.366825103759765625;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/opt/lampp/htdocs/siakadv/common/models/ArticleCategories.php";s:4:"line";i:106;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:55:"/opt/lampp/htdocs/siakadv/frontend/views/site/index.php";s:4:"line";i:49;s:8:"function";s:11:"topKategori";s:5:"class";s:31:"common\models\ArticleCategories";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:97;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:74;a:5:{i:0;s:78:"Rendering view file: /opt/lampp/htdocs/siakadv/frontend/views/layouts/main.php";i:1;i:8;i:2;s:25:"yii\base\View::renderFile";i:3;d:1503680704.3862059116363525390625;i:4;a:1:{i:0;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:97;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}}}s:9:"profiling";a:3:{s:6:"memory";i:5573356;s:4:"time";d:3.0162909030914306640625;s:8:"messages";a:38:{i:10;a:5:{i:0;s:64:"Opening DB connection: pgsql:host=localhost;dbname=dbsiaknf2017a";i:1;i:80;i:2;s:23:"yii\db\Connection::open";i:3;d:1503680702.235641002655029296875;i:4;a:2:{i:0;a:5:{s:4:"file";s:67:"/opt/lampp/htdocs/siakadv/vendor/dektrium/yii2-user/models/User.php";s:4:"line";i:473;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:80:"/opt/lampp/htdocs/siakadv/vendor/mdmsoft/yii2-admin/components/AccessControl.php";s:4:"line";i:103;s:8:"function";s:10:"getIsGuest";s:5:"class";s:12:"yii\web\User";s:4:"type";s:2:"->";}}}i:11;a:5:{i:0;s:64:"Opening DB connection: pgsql:host=localhost;dbname=dbsiaknf2017a";i:1;i:96;i:2;s:23:"yii\db\Connection::open";i:3;d:1503680702.529408931732177734375;i:4;a:2:{i:0;a:5:{s:4:"file";s:67:"/opt/lampp/htdocs/siakadv/vendor/dektrium/yii2-user/models/User.php";s:4:"line";i:473;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:80:"/opt/lampp/htdocs/siakadv/vendor/mdmsoft/yii2-admin/components/AccessControl.php";s:4:"line";i:103;s:8:"function";s:10:"getIsGuest";s:5:"class";s:12:"yii\web\User";s:4:"type";s:2:"->";}}}i:13;a:5:{i:0;s:1950:"SELECT
+    d.nspname AS table_schema,
+    c.relname AS table_name,
+    a.attname AS column_name,
+    t.typname AS data_type,
+    a.attlen AS character_maximum_length,
+    pg_catalog.col_description(c.oid, a.attnum) AS column_comment,
+    a.atttypmod AS modifier,
+    a.attnotnull = false AS is_nullable,
+    CAST(pg_get_expr(ad.adbin, ad.adrelid) AS varchar) AS column_default,
+    coalesce(pg_get_expr(ad.adbin, ad.adrelid) ~ 'nextval',false) AS is_autoinc,
+    array_to_string((select array_agg(enumlabel) from pg_enum where enumtypid=a.atttypid)::varchar[],',') as enum_values,
+    CASE atttypid
+         WHEN 21 /*int2*/ THEN 16
+         WHEN 23 /*int4*/ THEN 32
+         WHEN 20 /*int8*/ THEN 64
+         WHEN 1700 /*numeric*/ THEN
+              CASE WHEN atttypmod = -1
+               THEN null
+               ELSE ((atttypmod - 4) >> 16) & 65535
+               END
+         WHEN 700 /*float4*/ THEN 24 /*FLT_MANT_DIG*/
+         WHEN 701 /*float8*/ THEN 53 /*DBL_MANT_DIG*/
+         ELSE null
+      END   AS numeric_precision,
+      CASE
+        WHEN atttypid IN (21, 23, 20) THEN 0
+        WHEN atttypid IN (1700) THEN
+        CASE
+            WHEN atttypmod = -1 THEN null
+            ELSE (atttypmod - 4) & 65535
+        END
+           ELSE null
+      END AS numeric_scale,
+    CAST(
+             information_schema._pg_char_max_length(information_schema._pg_truetypid(a, t), information_schema._pg_truetypmod(a, t))
+             AS numeric
+    ) AS size,
+    a.attnum = any (ct.conkey) as is_pkey
+FROM
+    pg_class c
+    LEFT JOIN pg_attribute a ON a.attrelid = c.oid
+    LEFT JOIN pg_attrdef ad ON a.attrelid = ad.adrelid AND a.attnum = ad.adnum
+    LEFT JOIN pg_type t ON a.atttypid = t.oid
+    LEFT JOIN pg_namespace d ON d.oid = c.relnamespace
+    LEFT join pg_constraint ct on ct.conrelid=c.oid and ct.contype='p'
+WHERE
+    a.attnum > 0 and t.typname != ''
+    and c.relname = 'user'
+    and d.nspname = 'public'
+ORDER BY
+    a.attnum;";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1503680702.5494520664215087890625;i:4;a:2:{i:0;a:5:{s:4:"file";s:67:"/opt/lampp/htdocs/siakadv/vendor/dektrium/yii2-user/models/User.php";s:4:"line";i:473;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:80:"/opt/lampp/htdocs/siakadv/vendor/mdmsoft/yii2-admin/components/AccessControl.php";s:4:"line";i:103;s:8:"function";s:10:"getIsGuest";s:5:"class";s:12:"yii\web\User";s:4:"type";s:2:"->";}}}i:14;a:5:{i:0;s:1950:"SELECT
+    d.nspname AS table_schema,
+    c.relname AS table_name,
+    a.attname AS column_name,
+    t.typname AS data_type,
+    a.attlen AS character_maximum_length,
+    pg_catalog.col_description(c.oid, a.attnum) AS column_comment,
+    a.atttypmod AS modifier,
+    a.attnotnull = false AS is_nullable,
+    CAST(pg_get_expr(ad.adbin, ad.adrelid) AS varchar) AS column_default,
+    coalesce(pg_get_expr(ad.adbin, ad.adrelid) ~ 'nextval',false) AS is_autoinc,
+    array_to_string((select array_agg(enumlabel) from pg_enum where enumtypid=a.atttypid)::varchar[],',') as enum_values,
+    CASE atttypid
+         WHEN 21 /*int2*/ THEN 16
+         WHEN 23 /*int4*/ THEN 32
+         WHEN 20 /*int8*/ THEN 64
+         WHEN 1700 /*numeric*/ THEN
+              CASE WHEN atttypmod = -1
+               THEN null
+               ELSE ((atttypmod - 4) >> 16) & 65535
+               END
+         WHEN 700 /*float4*/ THEN 24 /*FLT_MANT_DIG*/
+         WHEN 701 /*float8*/ THEN 53 /*DBL_MANT_DIG*/
+         ELSE null
+      END   AS numeric_precision,
+      CASE
+        WHEN atttypid IN (21, 23, 20) THEN 0
+        WHEN atttypid IN (1700) THEN
+        CASE
+            WHEN atttypmod = -1 THEN null
+            ELSE (atttypmod - 4) & 65535
+        END
+           ELSE null
+      END AS numeric_scale,
+    CAST(
+             information_schema._pg_char_max_length(information_schema._pg_truetypid(a, t), information_schema._pg_truetypmod(a, t))
+             AS numeric
+    ) AS size,
+    a.attnum = any (ct.conkey) as is_pkey
+FROM
+    pg_class c
+    LEFT JOIN pg_attribute a ON a.attrelid = c.oid
+    LEFT JOIN pg_attrdef ad ON a.attrelid = ad.adrelid AND a.attnum = ad.adnum
+    LEFT JOIN pg_type t ON a.atttypid = t.oid
+    LEFT JOIN pg_namespace d ON d.oid = c.relnamespace
+    LEFT join pg_constraint ct on ct.conrelid=c.oid and ct.contype='p'
+WHERE
+    a.attnum > 0 and t.typname != ''
+    and c.relname = 'user'
+    and d.nspname = 'public'
+ORDER BY
+    a.attnum;";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1503680703.21016788482666015625;i:4;a:2:{i:0;a:5:{s:4:"file";s:67:"/opt/lampp/htdocs/siakadv/vendor/dektrium/yii2-user/models/User.php";s:4:"line";i:473;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:80:"/opt/lampp/htdocs/siakadv/vendor/mdmsoft/yii2-admin/components/AccessControl.php";s:4:"line";i:103;s:8:"function";s:10:"getIsGuest";s:5:"class";s:12:"yii\web\User";s:4:"type";s:2:"->";}}}i:16;a:5:{i:0;s:872:"select
+    ct.conname as constraint_name,
+    a.attname as column_name,
+    fc.relname as foreign_table_name,
+    fns.nspname as foreign_table_schema,
+    fa.attname as foreign_column_name
+from
+    (SELECT ct.conname, ct.conrelid, ct.confrelid, ct.conkey, ct.contype, ct.confkey, generate_subscripts(ct.conkey, 1) AS s
+       FROM pg_constraint ct
+    ) AS ct
+    inner join pg_class c on c.oid=ct.conrelid
+    inner join pg_namespace ns on c.relnamespace=ns.oid
+    inner join pg_attribute a on a.attrelid=ct.conrelid and a.attnum = ct.conkey[ct.s]
+    left join pg_class fc on fc.oid=ct.confrelid
+    left join pg_namespace fns on fc.relnamespace=fns.oid
+    left join pg_attribute fa on fa.attrelid=ct.confrelid and fa.attnum = ct.confkey[ct.s]
+where
+    ct.contype='f'
+    and c.relname='user'
+    and ns.nspname='public'
+order by
+    fns.nspname, fc.relname, a.attnum";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1503680703.2276990413665771484375;i:4;a:2:{i:0;a:5:{s:4:"file";s:67:"/opt/lampp/htdocs/siakadv/vendor/dektrium/yii2-user/models/User.php";s:4:"line";i:473;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:80:"/opt/lampp/htdocs/siakadv/vendor/mdmsoft/yii2-admin/components/AccessControl.php";s:4:"line";i:103;s:8:"function";s:10:"getIsGuest";s:5:"class";s:12:"yii\web\User";s:4:"type";s:2:"->";}}}i:17;a:5:{i:0;s:872:"select
+    ct.conname as constraint_name,
+    a.attname as column_name,
+    fc.relname as foreign_table_name,
+    fns.nspname as foreign_table_schema,
+    fa.attname as foreign_column_name
+from
+    (SELECT ct.conname, ct.conrelid, ct.confrelid, ct.conkey, ct.contype, ct.confkey, generate_subscripts(ct.conkey, 1) AS s
+       FROM pg_constraint ct
+    ) AS ct
+    inner join pg_class c on c.oid=ct.conrelid
+    inner join pg_namespace ns on c.relnamespace=ns.oid
+    inner join pg_attribute a on a.attrelid=ct.conrelid and a.attnum = ct.conkey[ct.s]
+    left join pg_class fc on fc.oid=ct.confrelid
+    left join pg_namespace fns on fc.relnamespace=fns.oid
+    left join pg_attribute fa on fa.attrelid=ct.confrelid and fa.attnum = ct.confkey[ct.s]
+where
+    ct.contype='f'
+    and c.relname='user'
+    and ns.nspname='public'
+order by
+    fns.nspname, fc.relname, a.attnum";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1503680703.2715709209442138671875;i:4;a:2:{i:0;a:5:{s:4:"file";s:67:"/opt/lampp/htdocs/siakadv/vendor/dektrium/yii2-user/models/User.php";s:4:"line";i:473;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:80:"/opt/lampp/htdocs/siakadv/vendor/mdmsoft/yii2-admin/components/AccessControl.php";s:4:"line";i:103;s:8:"function";s:10:"getIsGuest";s:5:"class";s:12:"yii\web\User";s:4:"type";s:2:"->";}}}i:19;a:5:{i:0;s:34:"SELECT * FROM "user" WHERE "id"=36";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1503680703.3028419017791748046875;i:4;a:2:{i:0;a:5:{s:4:"file";s:67:"/opt/lampp/htdocs/siakadv/vendor/dektrium/yii2-user/models/User.php";s:4:"line";i:473;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:80:"/opt/lampp/htdocs/siakadv/vendor/mdmsoft/yii2-admin/components/AccessControl.php";s:4:"line";i:103;s:8:"function";s:10:"getIsGuest";s:5:"class";s:12:"yii\web\User";s:4:"type";s:2:"->";}}}i:20;a:5:{i:0;s:34:"SELECT * FROM "user" WHERE "id"=36";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1503680703.3553540706634521484375;i:4;a:2:{i:0;a:5:{s:4:"file";s:67:"/opt/lampp/htdocs/siakadv/vendor/dektrium/yii2-user/models/User.php";s:4:"line";i:473;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:80:"/opt/lampp/htdocs/siakadv/vendor/mdmsoft/yii2-admin/components/AccessControl.php";s:4:"line";i:103;s:8:"function";s:10:"getIsGuest";s:5:"class";s:12:"yii\web\User";s:4:"type";s:2:"->";}}}i:25;a:5:{i:0;s:1959:"SELECT
+    d.nspname AS table_schema,
+    c.relname AS table_name,
+    a.attname AS column_name,
+    t.typname AS data_type,
+    a.attlen AS character_maximum_length,
+    pg_catalog.col_description(c.oid, a.attnum) AS column_comment,
+    a.atttypmod AS modifier,
+    a.attnotnull = false AS is_nullable,
+    CAST(pg_get_expr(ad.adbin, ad.adrelid) AS varchar) AS column_default,
+    coalesce(pg_get_expr(ad.adbin, ad.adrelid) ~ 'nextval',false) AS is_autoinc,
+    array_to_string((select array_agg(enumlabel) from pg_enum where enumtypid=a.atttypid)::varchar[],',') as enum_values,
+    CASE atttypid
+         WHEN 21 /*int2*/ THEN 16
+         WHEN 23 /*int4*/ THEN 32
+         WHEN 20 /*int8*/ THEN 64
+         WHEN 1700 /*numeric*/ THEN
+              CASE WHEN atttypmod = -1
+               THEN null
+               ELSE ((atttypmod - 4) >> 16) & 65535
+               END
+         WHEN 700 /*float4*/ THEN 24 /*FLT_MANT_DIG*/
+         WHEN 701 /*float8*/ THEN 53 /*DBL_MANT_DIG*/
+         ELSE null
+      END   AS numeric_precision,
+      CASE
+        WHEN atttypid IN (21, 23, 20) THEN 0
+        WHEN atttypid IN (1700) THEN
+        CASE
+            WHEN atttypmod = -1 THEN null
+            ELSE (atttypmod - 4) & 65535
+        END
+           ELSE null
+      END AS numeric_scale,
+    CAST(
+             information_schema._pg_char_max_length(information_schema._pg_truetypid(a, t), information_schema._pg_truetypmod(a, t))
+             AS numeric
+    ) AS size,
+    a.attnum = any (ct.conkey) as is_pkey
+FROM
+    pg_class c
+    LEFT JOIN pg_attribute a ON a.attrelid = c.oid
+    LEFT JOIN pg_attrdef ad ON a.attrelid = ad.adrelid AND a.attnum = ad.adnum
+    LEFT JOIN pg_type t ON a.atttypid = t.oid
+    LEFT JOIN pg_namespace d ON d.oid = c.relnamespace
+    LEFT join pg_constraint ct on ct.conrelid=c.oid and ct.contype='p'
+WHERE
+    a.attnum > 0 and t.typname != ''
+    and c.relname = 'article_items'
+    and d.nspname = 'public'
+ORDER BY
+    a.attnum;";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1503680703.6356279850006103515625;i:4;a:1:{i:0;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:93;s:8:"function";s:11:"__construct";s:5:"class";s:15:"yii\base\Object";s:4:"type";s:2:"->";}}}i:26;a:5:{i:0;s:1959:"SELECT
+    d.nspname AS table_schema,
+    c.relname AS table_name,
+    a.attname AS column_name,
+    t.typname AS data_type,
+    a.attlen AS character_maximum_length,
+    pg_catalog.col_description(c.oid, a.attnum) AS column_comment,
+    a.atttypmod AS modifier,
+    a.attnotnull = false AS is_nullable,
+    CAST(pg_get_expr(ad.adbin, ad.adrelid) AS varchar) AS column_default,
+    coalesce(pg_get_expr(ad.adbin, ad.adrelid) ~ 'nextval',false) AS is_autoinc,
+    array_to_string((select array_agg(enumlabel) from pg_enum where enumtypid=a.atttypid)::varchar[],',') as enum_values,
+    CASE atttypid
+         WHEN 21 /*int2*/ THEN 16
+         WHEN 23 /*int4*/ THEN 32
+         WHEN 20 /*int8*/ THEN 64
+         WHEN 1700 /*numeric*/ THEN
+              CASE WHEN atttypmod = -1
+               THEN null
+               ELSE ((atttypmod - 4) >> 16) & 65535
+               END
+         WHEN 700 /*float4*/ THEN 24 /*FLT_MANT_DIG*/
+         WHEN 701 /*float8*/ THEN 53 /*DBL_MANT_DIG*/
+         ELSE null
+      END   AS numeric_precision,
+      CASE
+        WHEN atttypid IN (21, 23, 20) THEN 0
+        WHEN atttypid IN (1700) THEN
+        CASE
+            WHEN atttypmod = -1 THEN null
+            ELSE (atttypmod - 4) & 65535
+        END
+           ELSE null
+      END AS numeric_scale,
+    CAST(
+             information_schema._pg_char_max_length(information_schema._pg_truetypid(a, t), information_schema._pg_truetypmod(a, t))
+             AS numeric
+    ) AS size,
+    a.attnum = any (ct.conkey) as is_pkey
+FROM
+    pg_class c
+    LEFT JOIN pg_attribute a ON a.attrelid = c.oid
+    LEFT JOIN pg_attrdef ad ON a.attrelid = ad.adrelid AND a.attnum = ad.adnum
+    LEFT JOIN pg_type t ON a.atttypid = t.oid
+    LEFT JOIN pg_namespace d ON d.oid = c.relnamespace
+    LEFT join pg_constraint ct on ct.conrelid=c.oid and ct.contype='p'
+WHERE
+    a.attnum > 0 and t.typname != ''
+    and c.relname = 'article_items'
+    and d.nspname = 'public'
+ORDER BY
+    a.attnum;";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1503680703.707973003387451171875;i:4;a:1:{i:0;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:93;s:8:"function";s:11:"__construct";s:5:"class";s:15:"yii\base\Object";s:4:"type";s:2:"->";}}}i:28;a:5:{i:0;s:881:"select
+    ct.conname as constraint_name,
+    a.attname as column_name,
+    fc.relname as foreign_table_name,
+    fns.nspname as foreign_table_schema,
+    fa.attname as foreign_column_name
+from
+    (SELECT ct.conname, ct.conrelid, ct.confrelid, ct.conkey, ct.contype, ct.confkey, generate_subscripts(ct.conkey, 1) AS s
+       FROM pg_constraint ct
+    ) AS ct
+    inner join pg_class c on c.oid=ct.conrelid
+    inner join pg_namespace ns on c.relnamespace=ns.oid
+    inner join pg_attribute a on a.attrelid=ct.conrelid and a.attnum = ct.conkey[ct.s]
+    left join pg_class fc on fc.oid=ct.confrelid
+    left join pg_namespace fns on fc.relnamespace=fns.oid
+    left join pg_attribute fa on fa.attrelid=ct.confrelid and fa.attnum = ct.confkey[ct.s]
+where
+    ct.contype='f'
+    and c.relname='article_items'
+    and ns.nspname='public'
+order by
+    fns.nspname, fc.relname, a.attnum";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1503680703.7165539264678955078125;i:4;a:1:{i:0;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:93;s:8:"function";s:11:"__construct";s:5:"class";s:15:"yii\base\Object";s:4:"type";s:2:"->";}}}i:29;a:5:{i:0;s:881:"select
+    ct.conname as constraint_name,
+    a.attname as column_name,
+    fc.relname as foreign_table_name,
+    fns.nspname as foreign_table_schema,
+    fa.attname as foreign_column_name
+from
+    (SELECT ct.conname, ct.conrelid, ct.confrelid, ct.conkey, ct.contype, ct.confkey, generate_subscripts(ct.conkey, 1) AS s
+       FROM pg_constraint ct
+    ) AS ct
+    inner join pg_class c on c.oid=ct.conrelid
+    inner join pg_namespace ns on c.relnamespace=ns.oid
+    inner join pg_attribute a on a.attrelid=ct.conrelid and a.attnum = ct.conkey[ct.s]
+    left join pg_class fc on fc.oid=ct.confrelid
+    left join pg_namespace fns on fc.relnamespace=fns.oid
+    left join pg_attribute fa on fa.attrelid=ct.confrelid and fa.attnum = ct.confkey[ct.s]
+where
+    ct.contype='f'
+    and c.relname='article_items'
+    and ns.nspname='public'
+order by
+    fns.nspname, fc.relname, a.attnum";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1503680703.747046947479248046875;i:4;a:1:{i:0;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:93;s:8:"function";s:11:"__construct";s:5:"class";s:15:"yii\base\Object";s:4:"type";s:2:"->";}}}i:32;a:5:{i:0;s:55:"SELECT COUNT(*) FROM "article_items" WHERE catid != '0'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1503680703.9535999298095703125;i:4;a:2:{i:0;a:5:{s:4:"file";s:55:"/opt/lampp/htdocs/siakadv/frontend/views/site/index.php";s:4:"line";i:35;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:97;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:33;a:5:{i:0;s:55:"SELECT COUNT(*) FROM "article_items" WHERE catid != '0'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1503680704.051125049591064453125;i:4;a:2:{i:0;a:5:{s:4:"file";s:55:"/opt/lampp/htdocs/siakadv/frontend/views/site/index.php";s:4:"line";i:35;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:97;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:35;a:5:{i:0;s:76:"SELECT * FROM "article_items" WHERE catid != '0' ORDER BY "id" DESC LIMIT 20";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1503680704.0549399852752685546875;i:4;a:2:{i:0;a:5:{s:4:"file";s:55:"/opt/lampp/htdocs/siakadv/frontend/views/site/index.php";s:4:"line";i:35;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:97;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:36;a:5:{i:0;s:76:"SELECT * FROM "article_items" WHERE catid != '0' ORDER BY "id" DESC LIMIT 20";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1503680704.0846021175384521484375;i:4;a:2:{i:0;a:5:{s:4:"file";s:55:"/opt/lampp/htdocs/siakadv/frontend/views/site/index.php";s:4:"line";i:35;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:97;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:39;a:5:{i:0;s:33:"SELECT * FROM "user" WHERE "id"=1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1503680704.1712110042572021484375;i:4;a:3:{i:0;a:5:{s:4:"file";s:62:"/opt/lampp/htdocs/siakadv/frontend/views/site/_itemArtikel.php";s:4:"line";i:15;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:55:"/opt/lampp/htdocs/siakadv/frontend/views/site/index.php";s:4:"line";i:35;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:97;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:40;a:5:{i:0;s:33:"SELECT * FROM "user" WHERE "id"=1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1503680704.1745760440826416015625;i:4;a:3:{i:0;a:5:{s:4:"file";s:62:"/opt/lampp/htdocs/siakadv/frontend/views/site/_itemArtikel.php";s:4:"line";i:15;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:55:"/opt/lampp/htdocs/siakadv/frontend/views/site/index.php";s:4:"line";i:35;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:97;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:42;a:5:{i:0;s:47:"SELECT * FROM "article_categories" WHERE "id"=2";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1503680704.1838729381561279296875;i:4;a:3:{i:0;a:5:{s:4:"file";s:62:"/opt/lampp/htdocs/siakadv/frontend/views/site/_itemArtikel.php";s:4:"line";i:18;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:55:"/opt/lampp/htdocs/siakadv/frontend/views/site/index.php";s:4:"line";i:35;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:97;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:43;a:5:{i:0;s:47:"SELECT * FROM "article_categories" WHERE "id"=2";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1503680704.2618770599365234375;i:4;a:3:{i:0;a:5:{s:4:"file";s:62:"/opt/lampp/htdocs/siakadv/frontend/views/site/_itemArtikel.php";s:4:"line";i:18;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:55:"/opt/lampp/htdocs/siakadv/frontend/views/site/index.php";s:4:"line";i:35;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:97;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:45;a:5:{i:0;s:1964:"SELECT
+    d.nspname AS table_schema,
+    c.relname AS table_name,
+    a.attname AS column_name,
+    t.typname AS data_type,
+    a.attlen AS character_maximum_length,
+    pg_catalog.col_description(c.oid, a.attnum) AS column_comment,
+    a.atttypmod AS modifier,
+    a.attnotnull = false AS is_nullable,
+    CAST(pg_get_expr(ad.adbin, ad.adrelid) AS varchar) AS column_default,
+    coalesce(pg_get_expr(ad.adbin, ad.adrelid) ~ 'nextval',false) AS is_autoinc,
+    array_to_string((select array_agg(enumlabel) from pg_enum where enumtypid=a.atttypid)::varchar[],',') as enum_values,
+    CASE atttypid
+         WHEN 21 /*int2*/ THEN 16
+         WHEN 23 /*int4*/ THEN 32
+         WHEN 20 /*int8*/ THEN 64
+         WHEN 1700 /*numeric*/ THEN
+              CASE WHEN atttypmod = -1
+               THEN null
+               ELSE ((atttypmod - 4) >> 16) & 65535
+               END
+         WHEN 700 /*float4*/ THEN 24 /*FLT_MANT_DIG*/
+         WHEN 701 /*float8*/ THEN 53 /*DBL_MANT_DIG*/
+         ELSE null
+      END   AS numeric_precision,
+      CASE
+        WHEN atttypid IN (21, 23, 20) THEN 0
+        WHEN atttypid IN (1700) THEN
+        CASE
+            WHEN atttypmod = -1 THEN null
+            ELSE (atttypmod - 4) & 65535
+        END
+           ELSE null
+      END AS numeric_scale,
+    CAST(
+             information_schema._pg_char_max_length(information_schema._pg_truetypid(a, t), information_schema._pg_truetypmod(a, t))
+             AS numeric
+    ) AS size,
+    a.attnum = any (ct.conkey) as is_pkey
+FROM
+    pg_class c
+    LEFT JOIN pg_attribute a ON a.attrelid = c.oid
+    LEFT JOIN pg_attrdef ad ON a.attrelid = ad.adrelid AND a.attnum = ad.adnum
+    LEFT JOIN pg_type t ON a.atttypid = t.oid
+    LEFT JOIN pg_namespace d ON d.oid = c.relnamespace
+    LEFT join pg_constraint ct on ct.conrelid=c.oid and ct.contype='p'
+WHERE
+    a.attnum > 0 and t.typname != ''
+    and c.relname = 'article_categories'
+    and d.nspname = 'public'
+ORDER BY
+    a.attnum;";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1503680704.2651989459991455078125;i:4;a:3:{i:0;a:5:{s:4:"file";s:62:"/opt/lampp/htdocs/siakadv/frontend/views/site/_itemArtikel.php";s:4:"line";i:18;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:55:"/opt/lampp/htdocs/siakadv/frontend/views/site/index.php";s:4:"line";i:35;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:97;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:46;a:5:{i:0;s:1964:"SELECT
+    d.nspname AS table_schema,
+    c.relname AS table_name,
+    a.attname AS column_name,
+    t.typname AS data_type,
+    a.attlen AS character_maximum_length,
+    pg_catalog.col_description(c.oid, a.attnum) AS column_comment,
+    a.atttypmod AS modifier,
+    a.attnotnull = false AS is_nullable,
+    CAST(pg_get_expr(ad.adbin, ad.adrelid) AS varchar) AS column_default,
+    coalesce(pg_get_expr(ad.adbin, ad.adrelid) ~ 'nextval',false) AS is_autoinc,
+    array_to_string((select array_agg(enumlabel) from pg_enum where enumtypid=a.atttypid)::varchar[],',') as enum_values,
+    CASE atttypid
+         WHEN 21 /*int2*/ THEN 16
+         WHEN 23 /*int4*/ THEN 32
+         WHEN 20 /*int8*/ THEN 64
+         WHEN 1700 /*numeric*/ THEN
+              CASE WHEN atttypmod = -1
+               THEN null
+               ELSE ((atttypmod - 4) >> 16) & 65535
+               END
+         WHEN 700 /*float4*/ THEN 24 /*FLT_MANT_DIG*/
+         WHEN 701 /*float8*/ THEN 53 /*DBL_MANT_DIG*/
+         ELSE null
+      END   AS numeric_precision,
+      CASE
+        WHEN atttypid IN (21, 23, 20) THEN 0
+        WHEN atttypid IN (1700) THEN
+        CASE
+            WHEN atttypmod = -1 THEN null
+            ELSE (atttypmod - 4) & 65535
+        END
+           ELSE null
+      END AS numeric_scale,
+    CAST(
+             information_schema._pg_char_max_length(information_schema._pg_truetypid(a, t), information_schema._pg_truetypmod(a, t))
+             AS numeric
+    ) AS size,
+    a.attnum = any (ct.conkey) as is_pkey
+FROM
+    pg_class c
+    LEFT JOIN pg_attribute a ON a.attrelid = c.oid
+    LEFT JOIN pg_attrdef ad ON a.attrelid = ad.adrelid AND a.attnum = ad.adnum
+    LEFT JOIN pg_type t ON a.atttypid = t.oid
+    LEFT JOIN pg_namespace d ON d.oid = c.relnamespace
+    LEFT join pg_constraint ct on ct.conrelid=c.oid and ct.contype='p'
+WHERE
+    a.attnum > 0 and t.typname != ''
+    and c.relname = 'article_categories'
+    and d.nspname = 'public'
+ORDER BY
+    a.attnum;";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1503680704.29623889923095703125;i:4;a:3:{i:0;a:5:{s:4:"file";s:62:"/opt/lampp/htdocs/siakadv/frontend/views/site/_itemArtikel.php";s:4:"line";i:18;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:55:"/opt/lampp/htdocs/siakadv/frontend/views/site/index.php";s:4:"line";i:35;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:97;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:48;a:5:{i:0;s:886:"select
+    ct.conname as constraint_name,
+    a.attname as column_name,
+    fc.relname as foreign_table_name,
+    fns.nspname as foreign_table_schema,
+    fa.attname as foreign_column_name
+from
+    (SELECT ct.conname, ct.conrelid, ct.confrelid, ct.conkey, ct.contype, ct.confkey, generate_subscripts(ct.conkey, 1) AS s
+       FROM pg_constraint ct
+    ) AS ct
+    inner join pg_class c on c.oid=ct.conrelid
+    inner join pg_namespace ns on c.relnamespace=ns.oid
+    inner join pg_attribute a on a.attrelid=ct.conrelid and a.attnum = ct.conkey[ct.s]
+    left join pg_class fc on fc.oid=ct.confrelid
+    left join pg_namespace fns on fc.relnamespace=fns.oid
+    left join pg_attribute fa on fa.attrelid=ct.confrelid and fa.attnum = ct.confkey[ct.s]
+where
+    ct.contype='f'
+    and c.relname='article_categories'
+    and ns.nspname='public'
+order by
+    fns.nspname, fc.relname, a.attnum";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1503680704.3001739978790283203125;i:4;a:3:{i:0;a:5:{s:4:"file";s:62:"/opt/lampp/htdocs/siakadv/frontend/views/site/_itemArtikel.php";s:4:"line";i:18;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:55:"/opt/lampp/htdocs/siakadv/frontend/views/site/index.php";s:4:"line";i:35;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:97;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:49;a:5:{i:0;s:886:"select
+    ct.conname as constraint_name,
+    a.attname as column_name,
+    fc.relname as foreign_table_name,
+    fns.nspname as foreign_table_schema,
+    fa.attname as foreign_column_name
+from
+    (SELECT ct.conname, ct.conrelid, ct.confrelid, ct.conkey, ct.contype, ct.confkey, generate_subscripts(ct.conkey, 1) AS s
+       FROM pg_constraint ct
+    ) AS ct
+    inner join pg_class c on c.oid=ct.conrelid
+    inner join pg_namespace ns on c.relnamespace=ns.oid
+    inner join pg_attribute a on a.attrelid=ct.conrelid and a.attnum = ct.conkey[ct.s]
+    left join pg_class fc on fc.oid=ct.confrelid
+    left join pg_namespace fns on fc.relnamespace=fns.oid
+    left join pg_attribute fa on fa.attrelid=ct.confrelid and fa.attnum = ct.confkey[ct.s]
+where
+    ct.contype='f'
+    and c.relname='article_categories'
+    and ns.nspname='public'
+order by
+    fns.nspname, fc.relname, a.attnum";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1503680704.3192050457000732421875;i:4;a:3:{i:0;a:5:{s:4:"file";s:62:"/opt/lampp/htdocs/siakadv/frontend/views/site/_itemArtikel.php";s:4:"line";i:18;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:55:"/opt/lampp/htdocs/siakadv/frontend/views/site/index.php";s:4:"line";i:35;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:97;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:52;a:5:{i:0;s:33:"SELECT * FROM "user" WHERE "id"=1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1503680704.323112964630126953125;i:4;a:3:{i:0;a:5:{s:4:"file";s:62:"/opt/lampp/htdocs/siakadv/frontend/views/site/_itemArtikel.php";s:4:"line";i:15;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:55:"/opt/lampp/htdocs/siakadv/frontend/views/site/index.php";s:4:"line";i:35;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:97;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:53;a:5:{i:0;s:33:"SELECT * FROM "user" WHERE "id"=1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1503680704.32567501068115234375;i:4;a:3:{i:0;a:5:{s:4:"file";s:62:"/opt/lampp/htdocs/siakadv/frontend/views/site/_itemArtikel.php";s:4:"line";i:15;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:55:"/opt/lampp/htdocs/siakadv/frontend/views/site/index.php";s:4:"line";i:35;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:97;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:55;a:5:{i:0;s:47:"SELECT * FROM "article_categories" WHERE "id"=1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1503680704.3281590938568115234375;i:4;a:3:{i:0;a:5:{s:4:"file";s:62:"/opt/lampp/htdocs/siakadv/frontend/views/site/_itemArtikel.php";s:4:"line";i:18;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:55:"/opt/lampp/htdocs/siakadv/frontend/views/site/index.php";s:4:"line";i:35;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:97;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:56;a:5:{i:0;s:47:"SELECT * FROM "article_categories" WHERE "id"=1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1503680704.330709934234619140625;i:4;a:3:{i:0;a:5:{s:4:"file";s:62:"/opt/lampp/htdocs/siakadv/frontend/views/site/_itemArtikel.php";s:4:"line";i:18;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:55:"/opt/lampp/htdocs/siakadv/frontend/views/site/index.php";s:4:"line";i:35;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:97;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:59;a:5:{i:0;s:33:"SELECT * FROM "user" WHERE "id"=1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1503680704.3344860076904296875;i:4;a:3:{i:0;a:5:{s:4:"file";s:62:"/opt/lampp/htdocs/siakadv/frontend/views/site/_itemArtikel.php";s:4:"line";i:15;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:55:"/opt/lampp/htdocs/siakadv/frontend/views/site/index.php";s:4:"line";i:35;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:97;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:60;a:5:{i:0;s:33:"SELECT * FROM "user" WHERE "id"=1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1503680704.337070941925048828125;i:4;a:3:{i:0;a:5:{s:4:"file";s:62:"/opt/lampp/htdocs/siakadv/frontend/views/site/_itemArtikel.php";s:4:"line";i:15;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:55:"/opt/lampp/htdocs/siakadv/frontend/views/site/index.php";s:4:"line";i:35;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:97;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:62;a:5:{i:0;s:47:"SELECT * FROM "article_categories" WHERE "id"=1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1503680704.3393681049346923828125;i:4;a:3:{i:0;a:5:{s:4:"file";s:62:"/opt/lampp/htdocs/siakadv/frontend/views/site/_itemArtikel.php";s:4:"line";i:18;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:55:"/opt/lampp/htdocs/siakadv/frontend/views/site/index.php";s:4:"line";i:35;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:97;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:63;a:5:{i:0;s:47:"SELECT * FROM "article_categories" WHERE "id"=1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1503680704.3418738842010498046875;i:4;a:3:{i:0;a:5:{s:4:"file";s:62:"/opt/lampp/htdocs/siakadv/frontend/views/site/_itemArtikel.php";s:4:"line";i:18;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:55:"/opt/lampp/htdocs/siakadv/frontend/views/site/index.php";s:4:"line";i:35;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:97;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:66;a:5:{i:0;s:33:"SELECT * FROM "user" WHERE "id"=1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1503680704.3454520702362060546875;i:4;a:3:{i:0;a:5:{s:4:"file";s:62:"/opt/lampp/htdocs/siakadv/frontend/views/site/_itemArtikel.php";s:4:"line";i:15;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:55:"/opt/lampp/htdocs/siakadv/frontend/views/site/index.php";s:4:"line";i:35;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:97;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:67;a:5:{i:0;s:33:"SELECT * FROM "user" WHERE "id"=1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1503680704.3480250835418701171875;i:4;a:3:{i:0;a:5:{s:4:"file";s:62:"/opt/lampp/htdocs/siakadv/frontend/views/site/_itemArtikel.php";s:4:"line";i:15;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:55:"/opt/lampp/htdocs/siakadv/frontend/views/site/index.php";s:4:"line";i:35;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:97;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:69;a:5:{i:0;s:47:"SELECT * FROM "article_categories" WHERE "id"=1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1503680704.3504240512847900390625;i:4;a:3:{i:0;a:5:{s:4:"file";s:62:"/opt/lampp/htdocs/siakadv/frontend/views/site/_itemArtikel.php";s:4:"line";i:18;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:55:"/opt/lampp/htdocs/siakadv/frontend/views/site/index.php";s:4:"line";i:35;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:97;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:70;a:5:{i:0;s:47:"SELECT * FROM "article_categories" WHERE "id"=1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1503680704.3527100086212158203125;i:4;a:3:{i:0;a:5:{s:4:"file";s:62:"/opt/lampp/htdocs/siakadv/frontend/views/site/_itemArtikel.php";s:4:"line";i:18;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:55:"/opt/lampp/htdocs/siakadv/frontend/views/site/index.php";s:4:"line";i:35;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:97;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:72;a:5:{i:0;s:50:"SELECT * FROM "article_categories" ORDER BY "name"";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1503680704.367041110992431640625;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/opt/lampp/htdocs/siakadv/common/models/ArticleCategories.php";s:4:"line";i:106;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:55:"/opt/lampp/htdocs/siakadv/frontend/views/site/index.php";s:4:"line";i:49;s:8:"function";s:11:"topKategori";s:5:"class";s:31:"common\models\ArticleCategories";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:97;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:73;a:5:{i:0;s:50:"SELECT * FROM "article_categories" ORDER BY "name"";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1503680704.3708269596099853515625;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/opt/lampp/htdocs/siakadv/common/models/ArticleCategories.php";s:4:"line";i:106;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:55:"/opt/lampp/htdocs/siakadv/frontend/views/site/index.php";s:4:"line";i:49;s:8:"function";s:11:"topKategori";s:5:"class";s:31:"common\models\ArticleCategories";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:97;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}}}s:2:"db";a:1:{s:8:"messages";a:36:{i:13;a:5:{i:0;s:1950:"SELECT
+    d.nspname AS table_schema,
+    c.relname AS table_name,
+    a.attname AS column_name,
+    t.typname AS data_type,
+    a.attlen AS character_maximum_length,
+    pg_catalog.col_description(c.oid, a.attnum) AS column_comment,
+    a.atttypmod AS modifier,
+    a.attnotnull = false AS is_nullable,
+    CAST(pg_get_expr(ad.adbin, ad.adrelid) AS varchar) AS column_default,
+    coalesce(pg_get_expr(ad.adbin, ad.adrelid) ~ 'nextval',false) AS is_autoinc,
+    array_to_string((select array_agg(enumlabel) from pg_enum where enumtypid=a.atttypid)::varchar[],',') as enum_values,
+    CASE atttypid
+         WHEN 21 /*int2*/ THEN 16
+         WHEN 23 /*int4*/ THEN 32
+         WHEN 20 /*int8*/ THEN 64
+         WHEN 1700 /*numeric*/ THEN
+              CASE WHEN atttypmod = -1
+               THEN null
+               ELSE ((atttypmod - 4) >> 16) & 65535
+               END
+         WHEN 700 /*float4*/ THEN 24 /*FLT_MANT_DIG*/
+         WHEN 701 /*float8*/ THEN 53 /*DBL_MANT_DIG*/
+         ELSE null
+      END   AS numeric_precision,
+      CASE
+        WHEN atttypid IN (21, 23, 20) THEN 0
+        WHEN atttypid IN (1700) THEN
+        CASE
+            WHEN atttypmod = -1 THEN null
+            ELSE (atttypmod - 4) & 65535
+        END
+           ELSE null
+      END AS numeric_scale,
+    CAST(
+             information_schema._pg_char_max_length(information_schema._pg_truetypid(a, t), information_schema._pg_truetypmod(a, t))
+             AS numeric
+    ) AS size,
+    a.attnum = any (ct.conkey) as is_pkey
+FROM
+    pg_class c
+    LEFT JOIN pg_attribute a ON a.attrelid = c.oid
+    LEFT JOIN pg_attrdef ad ON a.attrelid = ad.adrelid AND a.attnum = ad.adnum
+    LEFT JOIN pg_type t ON a.atttypid = t.oid
+    LEFT JOIN pg_namespace d ON d.oid = c.relnamespace
+    LEFT join pg_constraint ct on ct.conrelid=c.oid and ct.contype='p'
+WHERE
+    a.attnum > 0 and t.typname != ''
+    and c.relname = 'user'
+    and d.nspname = 'public'
+ORDER BY
+    a.attnum;";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1503680702.5494520664215087890625;i:4;a:2:{i:0;a:5:{s:4:"file";s:67:"/opt/lampp/htdocs/siakadv/vendor/dektrium/yii2-user/models/User.php";s:4:"line";i:473;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:80:"/opt/lampp/htdocs/siakadv/vendor/mdmsoft/yii2-admin/components/AccessControl.php";s:4:"line";i:103;s:8:"function";s:10:"getIsGuest";s:5:"class";s:12:"yii\web\User";s:4:"type";s:2:"->";}}}i:14;a:5:{i:0;s:1950:"SELECT
+    d.nspname AS table_schema,
+    c.relname AS table_name,
+    a.attname AS column_name,
+    t.typname AS data_type,
+    a.attlen AS character_maximum_length,
+    pg_catalog.col_description(c.oid, a.attnum) AS column_comment,
+    a.atttypmod AS modifier,
+    a.attnotnull = false AS is_nullable,
+    CAST(pg_get_expr(ad.adbin, ad.adrelid) AS varchar) AS column_default,
+    coalesce(pg_get_expr(ad.adbin, ad.adrelid) ~ 'nextval',false) AS is_autoinc,
+    array_to_string((select array_agg(enumlabel) from pg_enum where enumtypid=a.atttypid)::varchar[],',') as enum_values,
+    CASE atttypid
+         WHEN 21 /*int2*/ THEN 16
+         WHEN 23 /*int4*/ THEN 32
+         WHEN 20 /*int8*/ THEN 64
+         WHEN 1700 /*numeric*/ THEN
+              CASE WHEN atttypmod = -1
+               THEN null
+               ELSE ((atttypmod - 4) >> 16) & 65535
+               END
+         WHEN 700 /*float4*/ THEN 24 /*FLT_MANT_DIG*/
+         WHEN 701 /*float8*/ THEN 53 /*DBL_MANT_DIG*/
+         ELSE null
+      END   AS numeric_precision,
+      CASE
+        WHEN atttypid IN (21, 23, 20) THEN 0
+        WHEN atttypid IN (1700) THEN
+        CASE
+            WHEN atttypmod = -1 THEN null
+            ELSE (atttypmod - 4) & 65535
+        END
+           ELSE null
+      END AS numeric_scale,
+    CAST(
+             information_schema._pg_char_max_length(information_schema._pg_truetypid(a, t), information_schema._pg_truetypmod(a, t))
+             AS numeric
+    ) AS size,
+    a.attnum = any (ct.conkey) as is_pkey
+FROM
+    pg_class c
+    LEFT JOIN pg_attribute a ON a.attrelid = c.oid
+    LEFT JOIN pg_attrdef ad ON a.attrelid = ad.adrelid AND a.attnum = ad.adnum
+    LEFT JOIN pg_type t ON a.atttypid = t.oid
+    LEFT JOIN pg_namespace d ON d.oid = c.relnamespace
+    LEFT join pg_constraint ct on ct.conrelid=c.oid and ct.contype='p'
+WHERE
+    a.attnum > 0 and t.typname != ''
+    and c.relname = 'user'
+    and d.nspname = 'public'
+ORDER BY
+    a.attnum;";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1503680703.21016788482666015625;i:4;a:2:{i:0;a:5:{s:4:"file";s:67:"/opt/lampp/htdocs/siakadv/vendor/dektrium/yii2-user/models/User.php";s:4:"line";i:473;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:80:"/opt/lampp/htdocs/siakadv/vendor/mdmsoft/yii2-admin/components/AccessControl.php";s:4:"line";i:103;s:8:"function";s:10:"getIsGuest";s:5:"class";s:12:"yii\web\User";s:4:"type";s:2:"->";}}}i:16;a:5:{i:0;s:872:"select
+    ct.conname as constraint_name,
+    a.attname as column_name,
+    fc.relname as foreign_table_name,
+    fns.nspname as foreign_table_schema,
+    fa.attname as foreign_column_name
+from
+    (SELECT ct.conname, ct.conrelid, ct.confrelid, ct.conkey, ct.contype, ct.confkey, generate_subscripts(ct.conkey, 1) AS s
+       FROM pg_constraint ct
+    ) AS ct
+    inner join pg_class c on c.oid=ct.conrelid
+    inner join pg_namespace ns on c.relnamespace=ns.oid
+    inner join pg_attribute a on a.attrelid=ct.conrelid and a.attnum = ct.conkey[ct.s]
+    left join pg_class fc on fc.oid=ct.confrelid
+    left join pg_namespace fns on fc.relnamespace=fns.oid
+    left join pg_attribute fa on fa.attrelid=ct.confrelid and fa.attnum = ct.confkey[ct.s]
+where
+    ct.contype='f'
+    and c.relname='user'
+    and ns.nspname='public'
+order by
+    fns.nspname, fc.relname, a.attnum";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1503680703.2276990413665771484375;i:4;a:2:{i:0;a:5:{s:4:"file";s:67:"/opt/lampp/htdocs/siakadv/vendor/dektrium/yii2-user/models/User.php";s:4:"line";i:473;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:80:"/opt/lampp/htdocs/siakadv/vendor/mdmsoft/yii2-admin/components/AccessControl.php";s:4:"line";i:103;s:8:"function";s:10:"getIsGuest";s:5:"class";s:12:"yii\web\User";s:4:"type";s:2:"->";}}}i:17;a:5:{i:0;s:872:"select
+    ct.conname as constraint_name,
+    a.attname as column_name,
+    fc.relname as foreign_table_name,
+    fns.nspname as foreign_table_schema,
+    fa.attname as foreign_column_name
+from
+    (SELECT ct.conname, ct.conrelid, ct.confrelid, ct.conkey, ct.contype, ct.confkey, generate_subscripts(ct.conkey, 1) AS s
+       FROM pg_constraint ct
+    ) AS ct
+    inner join pg_class c on c.oid=ct.conrelid
+    inner join pg_namespace ns on c.relnamespace=ns.oid
+    inner join pg_attribute a on a.attrelid=ct.conrelid and a.attnum = ct.conkey[ct.s]
+    left join pg_class fc on fc.oid=ct.confrelid
+    left join pg_namespace fns on fc.relnamespace=fns.oid
+    left join pg_attribute fa on fa.attrelid=ct.confrelid and fa.attnum = ct.confkey[ct.s]
+where
+    ct.contype='f'
+    and c.relname='user'
+    and ns.nspname='public'
+order by
+    fns.nspname, fc.relname, a.attnum";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1503680703.2715709209442138671875;i:4;a:2:{i:0;a:5:{s:4:"file";s:67:"/opt/lampp/htdocs/siakadv/vendor/dektrium/yii2-user/models/User.php";s:4:"line";i:473;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:80:"/opt/lampp/htdocs/siakadv/vendor/mdmsoft/yii2-admin/components/AccessControl.php";s:4:"line";i:103;s:8:"function";s:10:"getIsGuest";s:5:"class";s:12:"yii\web\User";s:4:"type";s:2:"->";}}}i:19;a:5:{i:0;s:34:"SELECT * FROM "user" WHERE "id"=36";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1503680703.3028419017791748046875;i:4;a:2:{i:0;a:5:{s:4:"file";s:67:"/opt/lampp/htdocs/siakadv/vendor/dektrium/yii2-user/models/User.php";s:4:"line";i:473;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:80:"/opt/lampp/htdocs/siakadv/vendor/mdmsoft/yii2-admin/components/AccessControl.php";s:4:"line";i:103;s:8:"function";s:10:"getIsGuest";s:5:"class";s:12:"yii\web\User";s:4:"type";s:2:"->";}}}i:20;a:5:{i:0;s:34:"SELECT * FROM "user" WHERE "id"=36";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1503680703.3553540706634521484375;i:4;a:2:{i:0;a:5:{s:4:"file";s:67:"/opt/lampp/htdocs/siakadv/vendor/dektrium/yii2-user/models/User.php";s:4:"line";i:473;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:80:"/opt/lampp/htdocs/siakadv/vendor/mdmsoft/yii2-admin/components/AccessControl.php";s:4:"line";i:103;s:8:"function";s:10:"getIsGuest";s:5:"class";s:12:"yii\web\User";s:4:"type";s:2:"->";}}}i:25;a:5:{i:0;s:1959:"SELECT
+    d.nspname AS table_schema,
+    c.relname AS table_name,
+    a.attname AS column_name,
+    t.typname AS data_type,
+    a.attlen AS character_maximum_length,
+    pg_catalog.col_description(c.oid, a.attnum) AS column_comment,
+    a.atttypmod AS modifier,
+    a.attnotnull = false AS is_nullable,
+    CAST(pg_get_expr(ad.adbin, ad.adrelid) AS varchar) AS column_default,
+    coalesce(pg_get_expr(ad.adbin, ad.adrelid) ~ 'nextval',false) AS is_autoinc,
+    array_to_string((select array_agg(enumlabel) from pg_enum where enumtypid=a.atttypid)::varchar[],',') as enum_values,
+    CASE atttypid
+         WHEN 21 /*int2*/ THEN 16
+         WHEN 23 /*int4*/ THEN 32
+         WHEN 20 /*int8*/ THEN 64
+         WHEN 1700 /*numeric*/ THEN
+              CASE WHEN atttypmod = -1
+               THEN null
+               ELSE ((atttypmod - 4) >> 16) & 65535
+               END
+         WHEN 700 /*float4*/ THEN 24 /*FLT_MANT_DIG*/
+         WHEN 701 /*float8*/ THEN 53 /*DBL_MANT_DIG*/
+         ELSE null
+      END   AS numeric_precision,
+      CASE
+        WHEN atttypid IN (21, 23, 20) THEN 0
+        WHEN atttypid IN (1700) THEN
+        CASE
+            WHEN atttypmod = -1 THEN null
+            ELSE (atttypmod - 4) & 65535
+        END
+           ELSE null
+      END AS numeric_scale,
+    CAST(
+             information_schema._pg_char_max_length(information_schema._pg_truetypid(a, t), information_schema._pg_truetypmod(a, t))
+             AS numeric
+    ) AS size,
+    a.attnum = any (ct.conkey) as is_pkey
+FROM
+    pg_class c
+    LEFT JOIN pg_attribute a ON a.attrelid = c.oid
+    LEFT JOIN pg_attrdef ad ON a.attrelid = ad.adrelid AND a.attnum = ad.adnum
+    LEFT JOIN pg_type t ON a.atttypid = t.oid
+    LEFT JOIN pg_namespace d ON d.oid = c.relnamespace
+    LEFT join pg_constraint ct on ct.conrelid=c.oid and ct.contype='p'
+WHERE
+    a.attnum > 0 and t.typname != ''
+    and c.relname = 'article_items'
+    and d.nspname = 'public'
+ORDER BY
+    a.attnum;";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1503680703.6356279850006103515625;i:4;a:1:{i:0;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:93;s:8:"function";s:11:"__construct";s:5:"class";s:15:"yii\base\Object";s:4:"type";s:2:"->";}}}i:26;a:5:{i:0;s:1959:"SELECT
+    d.nspname AS table_schema,
+    c.relname AS table_name,
+    a.attname AS column_name,
+    t.typname AS data_type,
+    a.attlen AS character_maximum_length,
+    pg_catalog.col_description(c.oid, a.attnum) AS column_comment,
+    a.atttypmod AS modifier,
+    a.attnotnull = false AS is_nullable,
+    CAST(pg_get_expr(ad.adbin, ad.adrelid) AS varchar) AS column_default,
+    coalesce(pg_get_expr(ad.adbin, ad.adrelid) ~ 'nextval',false) AS is_autoinc,
+    array_to_string((select array_agg(enumlabel) from pg_enum where enumtypid=a.atttypid)::varchar[],',') as enum_values,
+    CASE atttypid
+         WHEN 21 /*int2*/ THEN 16
+         WHEN 23 /*int4*/ THEN 32
+         WHEN 20 /*int8*/ THEN 64
+         WHEN 1700 /*numeric*/ THEN
+              CASE WHEN atttypmod = -1
+               THEN null
+               ELSE ((atttypmod - 4) >> 16) & 65535
+               END
+         WHEN 700 /*float4*/ THEN 24 /*FLT_MANT_DIG*/
+         WHEN 701 /*float8*/ THEN 53 /*DBL_MANT_DIG*/
+         ELSE null
+      END   AS numeric_precision,
+      CASE
+        WHEN atttypid IN (21, 23, 20) THEN 0
+        WHEN atttypid IN (1700) THEN
+        CASE
+            WHEN atttypmod = -1 THEN null
+            ELSE (atttypmod - 4) & 65535
+        END
+           ELSE null
+      END AS numeric_scale,
+    CAST(
+             information_schema._pg_char_max_length(information_schema._pg_truetypid(a, t), information_schema._pg_truetypmod(a, t))
+             AS numeric
+    ) AS size,
+    a.attnum = any (ct.conkey) as is_pkey
+FROM
+    pg_class c
+    LEFT JOIN pg_attribute a ON a.attrelid = c.oid
+    LEFT JOIN pg_attrdef ad ON a.attrelid = ad.adrelid AND a.attnum = ad.adnum
+    LEFT JOIN pg_type t ON a.atttypid = t.oid
+    LEFT JOIN pg_namespace d ON d.oid = c.relnamespace
+    LEFT join pg_constraint ct on ct.conrelid=c.oid and ct.contype='p'
+WHERE
+    a.attnum > 0 and t.typname != ''
+    and c.relname = 'article_items'
+    and d.nspname = 'public'
+ORDER BY
+    a.attnum;";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1503680703.707973003387451171875;i:4;a:1:{i:0;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:93;s:8:"function";s:11:"__construct";s:5:"class";s:15:"yii\base\Object";s:4:"type";s:2:"->";}}}i:28;a:5:{i:0;s:881:"select
+    ct.conname as constraint_name,
+    a.attname as column_name,
+    fc.relname as foreign_table_name,
+    fns.nspname as foreign_table_schema,
+    fa.attname as foreign_column_name
+from
+    (SELECT ct.conname, ct.conrelid, ct.confrelid, ct.conkey, ct.contype, ct.confkey, generate_subscripts(ct.conkey, 1) AS s
+       FROM pg_constraint ct
+    ) AS ct
+    inner join pg_class c on c.oid=ct.conrelid
+    inner join pg_namespace ns on c.relnamespace=ns.oid
+    inner join pg_attribute a on a.attrelid=ct.conrelid and a.attnum = ct.conkey[ct.s]
+    left join pg_class fc on fc.oid=ct.confrelid
+    left join pg_namespace fns on fc.relnamespace=fns.oid
+    left join pg_attribute fa on fa.attrelid=ct.confrelid and fa.attnum = ct.confkey[ct.s]
+where
+    ct.contype='f'
+    and c.relname='article_items'
+    and ns.nspname='public'
+order by
+    fns.nspname, fc.relname, a.attnum";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1503680703.7165539264678955078125;i:4;a:1:{i:0;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:93;s:8:"function";s:11:"__construct";s:5:"class";s:15:"yii\base\Object";s:4:"type";s:2:"->";}}}i:29;a:5:{i:0;s:881:"select
+    ct.conname as constraint_name,
+    a.attname as column_name,
+    fc.relname as foreign_table_name,
+    fns.nspname as foreign_table_schema,
+    fa.attname as foreign_column_name
+from
+    (SELECT ct.conname, ct.conrelid, ct.confrelid, ct.conkey, ct.contype, ct.confkey, generate_subscripts(ct.conkey, 1) AS s
+       FROM pg_constraint ct
+    ) AS ct
+    inner join pg_class c on c.oid=ct.conrelid
+    inner join pg_namespace ns on c.relnamespace=ns.oid
+    inner join pg_attribute a on a.attrelid=ct.conrelid and a.attnum = ct.conkey[ct.s]
+    left join pg_class fc on fc.oid=ct.confrelid
+    left join pg_namespace fns on fc.relnamespace=fns.oid
+    left join pg_attribute fa on fa.attrelid=ct.confrelid and fa.attnum = ct.confkey[ct.s]
+where
+    ct.contype='f'
+    and c.relname='article_items'
+    and ns.nspname='public'
+order by
+    fns.nspname, fc.relname, a.attnum";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1503680703.747046947479248046875;i:4;a:1:{i:0;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:93;s:8:"function";s:11:"__construct";s:5:"class";s:15:"yii\base\Object";s:4:"type";s:2:"->";}}}i:32;a:5:{i:0;s:55:"SELECT COUNT(*) FROM "article_items" WHERE catid != '0'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1503680703.9535999298095703125;i:4;a:2:{i:0;a:5:{s:4:"file";s:55:"/opt/lampp/htdocs/siakadv/frontend/views/site/index.php";s:4:"line";i:35;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:97;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:33;a:5:{i:0;s:55:"SELECT COUNT(*) FROM "article_items" WHERE catid != '0'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1503680704.051125049591064453125;i:4;a:2:{i:0;a:5:{s:4:"file";s:55:"/opt/lampp/htdocs/siakadv/frontend/views/site/index.php";s:4:"line";i:35;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:97;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:35;a:5:{i:0;s:76:"SELECT * FROM "article_items" WHERE catid != '0' ORDER BY "id" DESC LIMIT 20";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1503680704.0549399852752685546875;i:4;a:2:{i:0;a:5:{s:4:"file";s:55:"/opt/lampp/htdocs/siakadv/frontend/views/site/index.php";s:4:"line";i:35;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:97;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:36;a:5:{i:0;s:76:"SELECT * FROM "article_items" WHERE catid != '0' ORDER BY "id" DESC LIMIT 20";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1503680704.0846021175384521484375;i:4;a:2:{i:0;a:5:{s:4:"file";s:55:"/opt/lampp/htdocs/siakadv/frontend/views/site/index.php";s:4:"line";i:35;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:97;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:39;a:5:{i:0;s:33:"SELECT * FROM "user" WHERE "id"=1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1503680704.1712110042572021484375;i:4;a:3:{i:0;a:5:{s:4:"file";s:62:"/opt/lampp/htdocs/siakadv/frontend/views/site/_itemArtikel.php";s:4:"line";i:15;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:55:"/opt/lampp/htdocs/siakadv/frontend/views/site/index.php";s:4:"line";i:35;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:97;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:40;a:5:{i:0;s:33:"SELECT * FROM "user" WHERE "id"=1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1503680704.1745760440826416015625;i:4;a:3:{i:0;a:5:{s:4:"file";s:62:"/opt/lampp/htdocs/siakadv/frontend/views/site/_itemArtikel.php";s:4:"line";i:15;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:55:"/opt/lampp/htdocs/siakadv/frontend/views/site/index.php";s:4:"line";i:35;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:97;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:42;a:5:{i:0;s:47:"SELECT * FROM "article_categories" WHERE "id"=2";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1503680704.1838729381561279296875;i:4;a:3:{i:0;a:5:{s:4:"file";s:62:"/opt/lampp/htdocs/siakadv/frontend/views/site/_itemArtikel.php";s:4:"line";i:18;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:55:"/opt/lampp/htdocs/siakadv/frontend/views/site/index.php";s:4:"line";i:35;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:97;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:43;a:5:{i:0;s:47:"SELECT * FROM "article_categories" WHERE "id"=2";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1503680704.2618770599365234375;i:4;a:3:{i:0;a:5:{s:4:"file";s:62:"/opt/lampp/htdocs/siakadv/frontend/views/site/_itemArtikel.php";s:4:"line";i:18;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:55:"/opt/lampp/htdocs/siakadv/frontend/views/site/index.php";s:4:"line";i:35;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:97;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:45;a:5:{i:0;s:1964:"SELECT
+    d.nspname AS table_schema,
+    c.relname AS table_name,
+    a.attname AS column_name,
+    t.typname AS data_type,
+    a.attlen AS character_maximum_length,
+    pg_catalog.col_description(c.oid, a.attnum) AS column_comment,
+    a.atttypmod AS modifier,
+    a.attnotnull = false AS is_nullable,
+    CAST(pg_get_expr(ad.adbin, ad.adrelid) AS varchar) AS column_default,
+    coalesce(pg_get_expr(ad.adbin, ad.adrelid) ~ 'nextval',false) AS is_autoinc,
+    array_to_string((select array_agg(enumlabel) from pg_enum where enumtypid=a.atttypid)::varchar[],',') as enum_values,
+    CASE atttypid
+         WHEN 21 /*int2*/ THEN 16
+         WHEN 23 /*int4*/ THEN 32
+         WHEN 20 /*int8*/ THEN 64
+         WHEN 1700 /*numeric*/ THEN
+              CASE WHEN atttypmod = -1
+               THEN null
+               ELSE ((atttypmod - 4) >> 16) & 65535
+               END
+         WHEN 700 /*float4*/ THEN 24 /*FLT_MANT_DIG*/
+         WHEN 701 /*float8*/ THEN 53 /*DBL_MANT_DIG*/
+         ELSE null
+      END   AS numeric_precision,
+      CASE
+        WHEN atttypid IN (21, 23, 20) THEN 0
+        WHEN atttypid IN (1700) THEN
+        CASE
+            WHEN atttypmod = -1 THEN null
+            ELSE (atttypmod - 4) & 65535
+        END
+           ELSE null
+      END AS numeric_scale,
+    CAST(
+             information_schema._pg_char_max_length(information_schema._pg_truetypid(a, t), information_schema._pg_truetypmod(a, t))
+             AS numeric
+    ) AS size,
+    a.attnum = any (ct.conkey) as is_pkey
+FROM
+    pg_class c
+    LEFT JOIN pg_attribute a ON a.attrelid = c.oid
+    LEFT JOIN pg_attrdef ad ON a.attrelid = ad.adrelid AND a.attnum = ad.adnum
+    LEFT JOIN pg_type t ON a.atttypid = t.oid
+    LEFT JOIN pg_namespace d ON d.oid = c.relnamespace
+    LEFT join pg_constraint ct on ct.conrelid=c.oid and ct.contype='p'
+WHERE
+    a.attnum > 0 and t.typname != ''
+    and c.relname = 'article_categories'
+    and d.nspname = 'public'
+ORDER BY
+    a.attnum;";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1503680704.2651989459991455078125;i:4;a:3:{i:0;a:5:{s:4:"file";s:62:"/opt/lampp/htdocs/siakadv/frontend/views/site/_itemArtikel.php";s:4:"line";i:18;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:55:"/opt/lampp/htdocs/siakadv/frontend/views/site/index.php";s:4:"line";i:35;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:97;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:46;a:5:{i:0;s:1964:"SELECT
+    d.nspname AS table_schema,
+    c.relname AS table_name,
+    a.attname AS column_name,
+    t.typname AS data_type,
+    a.attlen AS character_maximum_length,
+    pg_catalog.col_description(c.oid, a.attnum) AS column_comment,
+    a.atttypmod AS modifier,
+    a.attnotnull = false AS is_nullable,
+    CAST(pg_get_expr(ad.adbin, ad.adrelid) AS varchar) AS column_default,
+    coalesce(pg_get_expr(ad.adbin, ad.adrelid) ~ 'nextval',false) AS is_autoinc,
+    array_to_string((select array_agg(enumlabel) from pg_enum where enumtypid=a.atttypid)::varchar[],',') as enum_values,
+    CASE atttypid
+         WHEN 21 /*int2*/ THEN 16
+         WHEN 23 /*int4*/ THEN 32
+         WHEN 20 /*int8*/ THEN 64
+         WHEN 1700 /*numeric*/ THEN
+              CASE WHEN atttypmod = -1
+               THEN null
+               ELSE ((atttypmod - 4) >> 16) & 65535
+               END
+         WHEN 700 /*float4*/ THEN 24 /*FLT_MANT_DIG*/
+         WHEN 701 /*float8*/ THEN 53 /*DBL_MANT_DIG*/
+         ELSE null
+      END   AS numeric_precision,
+      CASE
+        WHEN atttypid IN (21, 23, 20) THEN 0
+        WHEN atttypid IN (1700) THEN
+        CASE
+            WHEN atttypmod = -1 THEN null
+            ELSE (atttypmod - 4) & 65535
+        END
+           ELSE null
+      END AS numeric_scale,
+    CAST(
+             information_schema._pg_char_max_length(information_schema._pg_truetypid(a, t), information_schema._pg_truetypmod(a, t))
+             AS numeric
+    ) AS size,
+    a.attnum = any (ct.conkey) as is_pkey
+FROM
+    pg_class c
+    LEFT JOIN pg_attribute a ON a.attrelid = c.oid
+    LEFT JOIN pg_attrdef ad ON a.attrelid = ad.adrelid AND a.attnum = ad.adnum
+    LEFT JOIN pg_type t ON a.atttypid = t.oid
+    LEFT JOIN pg_namespace d ON d.oid = c.relnamespace
+    LEFT join pg_constraint ct on ct.conrelid=c.oid and ct.contype='p'
+WHERE
+    a.attnum > 0 and t.typname != ''
+    and c.relname = 'article_categories'
+    and d.nspname = 'public'
+ORDER BY
+    a.attnum;";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1503680704.29623889923095703125;i:4;a:3:{i:0;a:5:{s:4:"file";s:62:"/opt/lampp/htdocs/siakadv/frontend/views/site/_itemArtikel.php";s:4:"line";i:18;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:55:"/opt/lampp/htdocs/siakadv/frontend/views/site/index.php";s:4:"line";i:35;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:97;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:48;a:5:{i:0;s:886:"select
+    ct.conname as constraint_name,
+    a.attname as column_name,
+    fc.relname as foreign_table_name,
+    fns.nspname as foreign_table_schema,
+    fa.attname as foreign_column_name
+from
+    (SELECT ct.conname, ct.conrelid, ct.confrelid, ct.conkey, ct.contype, ct.confkey, generate_subscripts(ct.conkey, 1) AS s
+       FROM pg_constraint ct
+    ) AS ct
+    inner join pg_class c on c.oid=ct.conrelid
+    inner join pg_namespace ns on c.relnamespace=ns.oid
+    inner join pg_attribute a on a.attrelid=ct.conrelid and a.attnum = ct.conkey[ct.s]
+    left join pg_class fc on fc.oid=ct.confrelid
+    left join pg_namespace fns on fc.relnamespace=fns.oid
+    left join pg_attribute fa on fa.attrelid=ct.confrelid and fa.attnum = ct.confkey[ct.s]
+where
+    ct.contype='f'
+    and c.relname='article_categories'
+    and ns.nspname='public'
+order by
+    fns.nspname, fc.relname, a.attnum";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1503680704.3001739978790283203125;i:4;a:3:{i:0;a:5:{s:4:"file";s:62:"/opt/lampp/htdocs/siakadv/frontend/views/site/_itemArtikel.php";s:4:"line";i:18;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:55:"/opt/lampp/htdocs/siakadv/frontend/views/site/index.php";s:4:"line";i:35;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:97;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:49;a:5:{i:0;s:886:"select
+    ct.conname as constraint_name,
+    a.attname as column_name,
+    fc.relname as foreign_table_name,
+    fns.nspname as foreign_table_schema,
+    fa.attname as foreign_column_name
+from
+    (SELECT ct.conname, ct.conrelid, ct.confrelid, ct.conkey, ct.contype, ct.confkey, generate_subscripts(ct.conkey, 1) AS s
+       FROM pg_constraint ct
+    ) AS ct
+    inner join pg_class c on c.oid=ct.conrelid
+    inner join pg_namespace ns on c.relnamespace=ns.oid
+    inner join pg_attribute a on a.attrelid=ct.conrelid and a.attnum = ct.conkey[ct.s]
+    left join pg_class fc on fc.oid=ct.confrelid
+    left join pg_namespace fns on fc.relnamespace=fns.oid
+    left join pg_attribute fa on fa.attrelid=ct.confrelid and fa.attnum = ct.confkey[ct.s]
+where
+    ct.contype='f'
+    and c.relname='article_categories'
+    and ns.nspname='public'
+order by
+    fns.nspname, fc.relname, a.attnum";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1503680704.3192050457000732421875;i:4;a:3:{i:0;a:5:{s:4:"file";s:62:"/opt/lampp/htdocs/siakadv/frontend/views/site/_itemArtikel.php";s:4:"line";i:18;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:55:"/opt/lampp/htdocs/siakadv/frontend/views/site/index.php";s:4:"line";i:35;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:97;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:52;a:5:{i:0;s:33:"SELECT * FROM "user" WHERE "id"=1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1503680704.323112964630126953125;i:4;a:3:{i:0;a:5:{s:4:"file";s:62:"/opt/lampp/htdocs/siakadv/frontend/views/site/_itemArtikel.php";s:4:"line";i:15;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:55:"/opt/lampp/htdocs/siakadv/frontend/views/site/index.php";s:4:"line";i:35;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:97;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:53;a:5:{i:0;s:33:"SELECT * FROM "user" WHERE "id"=1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1503680704.32567501068115234375;i:4;a:3:{i:0;a:5:{s:4:"file";s:62:"/opt/lampp/htdocs/siakadv/frontend/views/site/_itemArtikel.php";s:4:"line";i:15;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:55:"/opt/lampp/htdocs/siakadv/frontend/views/site/index.php";s:4:"line";i:35;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:97;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:55;a:5:{i:0;s:47:"SELECT * FROM "article_categories" WHERE "id"=1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1503680704.3281590938568115234375;i:4;a:3:{i:0;a:5:{s:4:"file";s:62:"/opt/lampp/htdocs/siakadv/frontend/views/site/_itemArtikel.php";s:4:"line";i:18;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:55:"/opt/lampp/htdocs/siakadv/frontend/views/site/index.php";s:4:"line";i:35;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:97;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:56;a:5:{i:0;s:47:"SELECT * FROM "article_categories" WHERE "id"=1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1503680704.330709934234619140625;i:4;a:3:{i:0;a:5:{s:4:"file";s:62:"/opt/lampp/htdocs/siakadv/frontend/views/site/_itemArtikel.php";s:4:"line";i:18;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:55:"/opt/lampp/htdocs/siakadv/frontend/views/site/index.php";s:4:"line";i:35;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:97;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:59;a:5:{i:0;s:33:"SELECT * FROM "user" WHERE "id"=1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1503680704.3344860076904296875;i:4;a:3:{i:0;a:5:{s:4:"file";s:62:"/opt/lampp/htdocs/siakadv/frontend/views/site/_itemArtikel.php";s:4:"line";i:15;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:55:"/opt/lampp/htdocs/siakadv/frontend/views/site/index.php";s:4:"line";i:35;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:97;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:60;a:5:{i:0;s:33:"SELECT * FROM "user" WHERE "id"=1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1503680704.337070941925048828125;i:4;a:3:{i:0;a:5:{s:4:"file";s:62:"/opt/lampp/htdocs/siakadv/frontend/views/site/_itemArtikel.php";s:4:"line";i:15;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:55:"/opt/lampp/htdocs/siakadv/frontend/views/site/index.php";s:4:"line";i:35;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:97;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:62;a:5:{i:0;s:47:"SELECT * FROM "article_categories" WHERE "id"=1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1503680704.3393681049346923828125;i:4;a:3:{i:0;a:5:{s:4:"file";s:62:"/opt/lampp/htdocs/siakadv/frontend/views/site/_itemArtikel.php";s:4:"line";i:18;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:55:"/opt/lampp/htdocs/siakadv/frontend/views/site/index.php";s:4:"line";i:35;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:97;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:63;a:5:{i:0;s:47:"SELECT * FROM "article_categories" WHERE "id"=1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1503680704.3418738842010498046875;i:4;a:3:{i:0;a:5:{s:4:"file";s:62:"/opt/lampp/htdocs/siakadv/frontend/views/site/_itemArtikel.php";s:4:"line";i:18;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:55:"/opt/lampp/htdocs/siakadv/frontend/views/site/index.php";s:4:"line";i:35;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:97;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:66;a:5:{i:0;s:33:"SELECT * FROM "user" WHERE "id"=1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1503680704.3454520702362060546875;i:4;a:3:{i:0;a:5:{s:4:"file";s:62:"/opt/lampp/htdocs/siakadv/frontend/views/site/_itemArtikel.php";s:4:"line";i:15;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:55:"/opt/lampp/htdocs/siakadv/frontend/views/site/index.php";s:4:"line";i:35;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:97;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:67;a:5:{i:0;s:33:"SELECT * FROM "user" WHERE "id"=1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1503680704.3480250835418701171875;i:4;a:3:{i:0;a:5:{s:4:"file";s:62:"/opt/lampp/htdocs/siakadv/frontend/views/site/_itemArtikel.php";s:4:"line";i:15;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:55:"/opt/lampp/htdocs/siakadv/frontend/views/site/index.php";s:4:"line";i:35;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:97;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:69;a:5:{i:0;s:47:"SELECT * FROM "article_categories" WHERE "id"=1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1503680704.3504240512847900390625;i:4;a:3:{i:0;a:5:{s:4:"file";s:62:"/opt/lampp/htdocs/siakadv/frontend/views/site/_itemArtikel.php";s:4:"line";i:18;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:55:"/opt/lampp/htdocs/siakadv/frontend/views/site/index.php";s:4:"line";i:35;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:97;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:70;a:5:{i:0;s:47:"SELECT * FROM "article_categories" WHERE "id"=1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1503680704.3527100086212158203125;i:4;a:3:{i:0;a:5:{s:4:"file";s:62:"/opt/lampp/htdocs/siakadv/frontend/views/site/_itemArtikel.php";s:4:"line";i:18;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:55:"/opt/lampp/htdocs/siakadv/frontend/views/site/index.php";s:4:"line";i:35;s:8:"function";s:6:"widget";s:5:"class";s:15:"yii\base\Widget";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:97;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:72;a:5:{i:0;s:50:"SELECT * FROM "article_categories" ORDER BY "name"";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1503680704.367041110992431640625;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/opt/lampp/htdocs/siakadv/common/models/ArticleCategories.php";s:4:"line";i:106;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:55:"/opt/lampp/htdocs/siakadv/frontend/views/site/index.php";s:4:"line";i:49;s:8:"function";s:11:"topKategori";s:5:"class";s:31:"common\models\ArticleCategories";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:97;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:73;a:5:{i:0;s:50:"SELECT * FROM "article_categories" ORDER BY "name"";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1503680704.3708269596099853515625;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/opt/lampp/htdocs/siakadv/common/models/ArticleCategories.php";s:4:"line";i:106;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:55:"/opt/lampp/htdocs/siakadv/frontend/views/site/index.php";s:4:"line";i:49;s:8:"function";s:11:"topKategori";s:5:"class";s:31:"common\models\ArticleCategories";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:65:"/opt/lampp/htdocs/siakadv/frontend/controllers/SiteController.php";s:4:"line";i:97;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}}}s:6:"assets";a:5:{s:24:"frontend\assets\AppAsset";a:9:{s:8:"basePath";s:38:"/opt/lampp/htdocs/siakadv/frontend/web";s:7:"baseUrl";s:8:"/siakadv";s:3:"css";a:1:{i:0;s:12:"css/site.css";}s:2:"js";a:1:{i:0;s:10:"js/main.js";}s:7:"depends";a:2:{i:0;s:16:"yii\web\YiiAsset";i:1;s:28:"yii\bootstrap\BootstrapAsset";}s:10:"sourcePath";N;s:9:"jsOptions";a:0:{}s:10:"cssOptions";a:0:{}s:14:"publishOptions";a:0:{}}s:16:"yii\web\YiiAsset";a:9:{s:10:"sourcePath";s:52:"/opt/lampp/htdocs/siakadv/vendor/yiisoft/yii2/assets";s:2:"js";a:1:{i:0;s:6:"yii.js";}s:7:"depends";a:1:{i:0;s:19:"yii\web\JqueryAsset";}s:8:"basePath";s:54:"/opt/lampp/htdocs/siakadv/frontend/web/assets/fefd86ff";s:7:"baseUrl";s:24:"/siakadv/assets/fefd86ff";s:3:"css";a:0:{}s:9:"jsOptions";a:0:{}s:10:"cssOptions";a:0:{}s:14:"publishOptions";a:0:{}}s:19:"yii\web\JqueryAsset";a:9:{s:10:"sourcePath";s:50:"/opt/lampp/htdocs/siakadv/vendor/bower/jquery/dist";s:2:"js";a:1:{i:0;s:9:"jquery.js";}s:8:"basePath";s:54:"/opt/lampp/htdocs/siakadv/frontend/web/assets/14053626";s:7:"baseUrl";s:24:"/siakadv/assets/14053626";s:7:"depends";a:0:{}s:3:"css";a:0:{}s:9:"jsOptions";a:0:{}s:10:"cssOptions";a:0:{}s:14:"publishOptions";a:0:{}}s:28:"yii\bootstrap\BootstrapAsset";a:9:{s:10:"sourcePath";s:53:"/opt/lampp/htdocs/siakadv/vendor/bower/bootstrap/dist";s:3:"css";a:1:{i:0;s:17:"css/bootstrap.css";}s:8:"basePath";s:52:"/opt/lampp/htdocs/siakadv/frontend/web/assets/8c7cc5";s:7:"baseUrl";s:22:"/siakadv/assets/8c7cc5";s:7:"depends";a:0:{}s:2:"js";a:0:{}s:9:"jsOptions";a:0:{}s:10:"cssOptions";a:0:{}s:14:"publishOptions";a:0:{}}s:34:"yii\bootstrap\BootstrapPluginAsset";a:9:{s:10:"sourcePath";s:53:"/opt/lampp/htdocs/siakadv/vendor/bower/bootstrap/dist";s:2:"js";a:1:{i:0;s:15:"js/bootstrap.js";}s:7:"depends";a:2:{i:0;s:19:"yii\web\JqueryAsset";i:1;s:28:"yii\bootstrap\BootstrapAsset";}s:8:"basePath";s:52:"/opt/lampp/htdocs/siakadv/frontend/web/assets/8c7cc5";s:7:"baseUrl";s:22:"/siakadv/assets/8c7cc5";s:3:"css";a:0:{}s:9:"jsOptions";a:0:{}s:10:"cssOptions";a:0:{}s:14:"publishOptions";a:0:{}}}s:4:"mail";a:0:{}s:7:"summary";a:9:{s:3:"tag";s:13:"59a058be01335";s:3:"url";s:25:"http://localhost/siakadv/";s:4:"ajax";i:0;s:6:"method";s:3:"GET";s:2:"ip";s:9:"127.0.0.1";s:4:"time";i:1503680704;s:10:"statusCode";i:200;s:8:"sqlCount";i:18;s:9:"mailCount";i:0;}}

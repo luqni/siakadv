@@ -1,0 +1,131 @@
+2016-07-15 16:27:58 [-][-][-][error][yii\console\Exception] exception 'yii\console\Exception' with message 'Unknown alias: -migrationPath' in C:\xampp\htdocs\siakadv\vendor\yiisoft\yii2\console\Controller.php:96
+Stack trace:
+#0 C:\xampp\htdocs\siakadv\vendor\yiisoft\yii2\base\Module.php(454): yii\console\Controller->runAction('', Array)
+#1 C:\xampp\htdocs\siakadv\vendor\yiisoft\yii2\console\Application.php(176): yii\base\Module->runAction('migrate', Array)
+#2 C:\xampp\htdocs\siakadv\vendor\yiisoft\yii2\console\Application.php(143): yii\console\Application->runAction('migrate', Array)
+#3 C:\xampp\htdocs\siakadv\vendor\yiisoft\yii2\base\Application.php(375): yii\console\Application->handleRequest(Object(yii\console\Request))
+#4 C:\xampp\htdocs\siakadv\yii(27): yii\base\Application->run()
+#5 {main}
+2016-07-15 16:27:58 [-][-][-][info][application] $_SERVER = [
+    'ALLUSERSPROFILE' => 'C:\\ProgramData'
+    'APPDATA' => 'C:\\Users\\Henny\\AppData\\Roaming'
+    'CommonProgramFiles' => 'C:\\Program Files\\Common Files'
+    'COMPUTERNAME' => 'HENNY-PC'
+    'ComSpec' => 'C:\\Windows\\system32\\cmd.exe'
+    'FP_NO_HOST_CHECK' => 'NO'
+    'HOMEDRIVE' => 'C:'
+    'HOMEPATH' => '\\Users\\Henny'
+    'LOCALAPPDATA' => 'C:\\Users\\Henny\\AppData\\Local'
+    'LOGONSERVER' => '\\\\HENNY-PC'
+    'NUMBER_OF_PROCESSORS' => '2'
+    'OPENSSL_CONF' => 'C:\\Program Files\\PostgreSQL\\psqlODBC\\etc\\openssl.cnf'
+    'OS' => 'Windows_NT'
+    'PATH' => 'C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\xampp\\php;C:\\ProgramData\\ComposerSetup\\bin;C:\\Program Files\\Skype\\Phone;C:\\Program Files\\PostgreSQL\\9.5\\bin;C:\\Program Files\\PostgreSQL\\9.3\\bin'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'PROCESSOR_ARCHITECTURE' => 'x86'
+    'PROCESSOR_IDENTIFIER' => 'x86 Family 6 Model 42 Stepping 7, GenuineIntel'
+    'PROCESSOR_LEVEL' => '6'
+    'PROCESSOR_REVISION' => '2a07'
+    'ProgramData' => 'C:\\ProgramData'
+    'ProgramFiles' => 'C:\\Program Files'
+    'PROMPT' => '$P$G'
+    'PSModulePath' => 'C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules\\'
+    'PUBLIC' => 'C:\\Users\\Public'
+    'SystemDrive' => 'C:'
+    'SystemRoot' => 'C:\\Windows'
+    'TEMP' => 'C:\\Users\\Henny\\AppData\\Local\\Temp'
+    'TMP' => 'C:\\Users\\Henny\\AppData\\Local\\Temp'
+    'USERDOMAIN' => 'Henny-PC'
+    'USERNAME' => 'Henny'
+    'USERPROFILE' => 'C:\\Users\\Henny'
+    'windir' => 'C:\\Windows'
+    'PHP_SELF' => 'yii'
+    'SCRIPT_NAME' => 'yii'
+    'SCRIPT_FILENAME' => 'yii'
+    'PATH_TRANSLATED' => 'yii'
+    'DOCUMENT_ROOT' => ''
+    'REQUEST_TIME_FLOAT' => 1468592878.5819
+    'REQUEST_TIME' => 1468592878
+    'argv' => [
+        0 => 'yii'
+        1 => 'migrate'
+        2 => '-migrationPath=@yii/rbac/migrations'
+    ]
+    'argc' => 3
+]
+2017-08-14 09:22:40 [-][-][-][error][yii\base\ErrorException:32] yii\base\ErrorException: Module 'openssl' already loaded in Unknown:0
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2017-08-14 09:22:34 [-][-][-][info][application] $_SERVER = [
+    'ALLUSERSPROFILE' => 'C:\\ProgramData'
+    'APPDATA' => 'C:\\Users\\Aisyah\\AppData\\Roaming'
+    'CLASSPATH' => '.;.;C:\\PROGRA~2\\JMF21~1.1E\\lib\\sound.jar;C:\\PROGRA~2\\JMF21~1.1E\\lib\\jmf.jar;C:\\PROGRA~2\\JMF21~1.1E\\lib;'
+    'CommonProgramFiles' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramFiles(x86)' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramW6432' => 'C:\\Program Files\\Common Files'
+    'COMPUTERNAME' => 'AHUMZ'
+    'ComSpec' => 'C:\\WINDOWS\\system32\\cmd.exe'
+    'FP_NO_HOST_CHECK' => 'NO'
+    'HOMEDRIVE' => 'C:'
+    'HOMEPATH' => '\\Users\\Aisyah'
+    'LOCALAPPDATA' => 'C:\\Users\\Aisyah\\AppData\\Local'
+    'LOGONSERVER' => '\\\\AHUMZ'
+    'MIBDIRS' => 'C:/xampp/php/extras/mibs'
+    'MYSQL_HOME' => 'C:\\xampp\\mysql\\bin'
+    'NUMBER_OF_PROCESSORS' => '4'
+    'OneDrive' => 'C:\\Users\\Aisyah\\OneDrive'
+    'OPENSSL_CONF' => 'C:/xampp/apache/conf/openssl.cnf'
+    'OS' => 'Windows_NT'
+    'Path' => ';C:\\xampp\\;C:\\xampp\\php;C:\\xampp\\perl\\site\\bin;C:\\xampp\\perl\\bin;C:\\xampp\\apache\\bin;C:\\xampp\\mysql\\bin;C:\\xampp\\FileZillaFTP;C:\\xampp\\MercuryMail;C:\\xampp\\sendmail;C:\\xampp\\webalizer;C:\\xampp\\tomcat\\bin;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files (x86)\\Windows Kits\\8.1\\Windows Performance Toolkit\\;C:\\Program Files\\Microsoft SQL Server\\110\\Tools\\Binn\\;C:\\Program Files (x86)\\Microsoft SDKs\\TypeScript\\1.0\\;C:\\Program Files\\Microsoft SQL Server\\120\\Tools\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\110\\Tools\\Binn\\;C:\\Program Files (x86)\\Microsoft SQL Server\\120\\Tools\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\120\\DTS\\Binn\\;C:\\Program Files (x86)\\Microsoft SQL Server\\120\\Tools\\Binn\\ManagementStudio\\;C:\\Program Files (x86)\\Microsoft SQL Server\\120\\DTS\\Binn\\;C:\\Program Files (x86)\\Windows Live\\Shared;C:\\laragon\\bin;C:\\laragon\\bin\\apache\\httpd-2.4.25-win64-VC14\\bin;C:\\laragon\\bin\\composer;C:\\laragon\\bin\\git\\bin;C:\\laragon\\bin\\git\\cmd;C:\\laragon\\bin\\git\\mingw64\\bin;C:\\laragon\\bin\\git\\usr\\bin;C:\\laragon\\bin\\laragon\\utils;C:\\laragon\\bin\\mysql\\mysql-5.7.18-winx64\\bin;C:\\laragon\\bin\\nginx\\nginx-1.12.0;C:\\laragon\\bin\\ngrok;C:\\laragon\\bin\\nodejs\\node-v6.11.0-x64;C:\\laragon\\bin\\notepad++;C:\\laragon\\bin\\php\\php-7.1.7-Win32-VC14-x64;C:\\laragon\\bin\\postgresql\\postgresql-9.6.3-1-windows-x64\\bin;C:\\laragon\\bin\\putty;C:\\laragon\\bin\\redis\\redis-x64-3.2.100;C:\\laragon\\bin\\telnet;C:\\laragon\\bin\\yarn\\bin;C:\\laragon\\usr\\bin;C:\\Users\\Aisyah\\AppData\\Local\\Yarn\\config\\global\\node_modules\\.bin;C:\\Users\\Aisyah\\AppData\\Roaming\\Composer\\vendor\\bin;C:\\Users\\Aisyah\\AppData\\Roaming\\npm;C:\\Users\\Aisyah\\AppData\\Local\\Microsoft\\WindowsApps;'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'PHPRC' => 'C:\\xampp\\php'
+    'PHP_COMMAND' => 'php.exe'
+    'PHP_PEAR_BIN_DIR' => 'C:\\xampp\\php'
+    'PHP_PEAR_CFG_DIR' => 'C:\\xampp\\php\\cfg'
+    'PHP_PEAR_DATA_DIR' => 'C:\\xampp\\php\\data'
+    'PHP_PEAR_DOC_DIR' => 'C:\\xampp\\php\\docs'
+    'PHP_PEAR_INSTALL_DIR' => 'C:\\xampp\\php\\pear'
+    'PHP_PEAR_PHP_BIN' => 'C:\\xampp\\php\\php.exe'
+    'PHP_PEAR_SYSCONF_DIR' => 'C:\\xampp\\php'
+    'PHP_PEAR_TEST_DIR' => 'C:\\xampp\\php\\tests'
+    'PHP_PEAR_WWW_DIR' => 'C:\\xampp\\php\\www'
+    'PROCESSOR_ARCHITECTURE' => 'x86'
+    'PROCESSOR_ARCHITEW6432' => 'AMD64'
+    'PROCESSOR_IDENTIFIER' => 'Intel64 Family 6 Model 58 Stepping 9, GenuineIntel'
+    'PROCESSOR_LEVEL' => '6'
+    'PROCESSOR_REVISION' => '3a09'
+    'ProgramData' => 'C:\\ProgramData'
+    'ProgramFiles' => 'C:\\Program Files (x86)'
+    'ProgramFiles(x86)' => 'C:\\Program Files (x86)'
+    'ProgramW6432' => 'C:\\Program Files'
+    'PROMPT' => 'Aisyah@AHUMZ$S$P$_#$S'
+    'PSModulePath' => 'C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\;C:\\Program Files (x86)\\Microsoft SQL Server\\120\\Tools\\PowerShell\\Modules\\'
+    'PUBLIC' => 'C:\\Users\\Public'
+    'SESSIONNAME' => 'Console'
+    'SystemDrive' => 'C:'
+    'SystemRoot' => 'C:\\WINDOWS'
+    'TEMP' => 'C:\\Users\\Aisyah\\AppData\\Local\\Temp'
+    'TMP' => 'C:\\xampp\\tmp'
+    'USERDOMAIN' => 'AHUMZ'
+    'USERDOMAIN_ROAMINGPROFILE' => 'AHUMZ'
+    'USERNAME' => 'Aisyah'
+    'USERPROFILE' => 'C:\\Users\\Aisyah'
+    'VS110COMNTOOLS' => 'C:\\Program Files (x86)\\Microsoft Visual Studio 11.0\\Common7\\Tools\\'
+    'VS120COMNTOOLS' => 'C:\\Program Files (x86)\\Microsoft Visual Studio 12.0\\Common7\\Tools\\'
+    'windir' => 'C:\\WINDOWS'
+    'YII_PATH' => 'c:\\xampp\\htdocs\\siakadv\\'
+    'PHP_SELF' => 'c:\\xampp\\htdocs\\siakadv\\yii'
+    'SCRIPT_NAME' => 'c:\\xampp\\htdocs\\siakadv\\yii'
+    'SCRIPT_FILENAME' => 'c:\\xampp\\htdocs\\siakadv\\yii'
+    'PATH_TRANSLATED' => 'c:\\xampp\\htdocs\\siakadv\\yii'
+    'DOCUMENT_ROOT' => ''
+    'REQUEST_TIME_FLOAT' => 1502695354.4966
+    'REQUEST_TIME' => 1502695354
+    'argv' => [
+        0 => 'c:\\xampp\\htdocs\\siakadv\\yii'
+        1 => 'migrate'
+        2 => '--migrationPath=@yii/rbac/migrations'
+    ]
+    'argc' => 3
+]
